@@ -1,0 +1,2001 @@
+CustomerID,Age,Education,Income,Occupation,Gender,Marital Status,Settlement Size
+1,67,University,124670,Official,Male,Single,Big City
+2,22,High School,150773,Official,Female,Married,Big City
+3,49,High School,89210,Unemployed,Male,Single,Small City
+4,45,High School,171565,Official,Male,Single,Mid City
+5,53,High School,149031,Official,Male,Single,Mid City
+6,35,High School,144848,Unemployed,Male,Single,Small City
+7,53,High School,156495,Official,Male,Single,Mid City
+8,35,High School,193621,Management,Male,Single,Mid City
+9,61,University,151591,Unemployed,Male,Married,Small City
+10,28,High School,174646,Management,Male,Married,Small City
+11,25,High School,108469,Official,Female,Married,Small City
+12,24,High School,127596,Official,Female,Married,Small City
+13,22,High School,108687,Official,Female,Married,Big City
+14,60,University,89374,Unemployed,Male,Single,Small City
+15,28,High School,102899,Official,Female,Married,Mid City
+16,32,High School,88428,Unemployed,Female,Married,Small City
+17,53,High School,125550,Official,Male,Single,Small City
+18,25,Unknown,157434,Official,Male,Single,Big City
+19,44,University,261952,Management,Female,Married,Big City
+20,31,Unknown,144657,Official,Male,Single,Mid City
+21,48,High School,118777,Official,Male,Single,Mid City
+22,44,High School,147511,Official,Male,Single,Mid City
+23,48,High School,89804,Unemployed,Male,Single,Small City
+24,44,High School,134918,Official,Male,Single,Big City
+25,26,High School,103667,Official,Male,Married,Big City
+26,36,High School,71909,Unemployed,Male,Single,Small City
+27,39,High School,68264,Unemployed,Male,Married,Small City
+28,42,University,163025,Official,Female,Married,Mid City
+29,34,High School,119307,Official,Male,Single,Mid City
+30,63,University,175882,Official,Male,Single,Small City
+31,36,High School,159646,Official,Male,Married,Mid City
+32,27,Unknown,120131,Official,Male,Single,Mid City
+33,30,Unknown,162745,Official,Male,Single,Big City
+34,57,University,87605,Unemployed,Male,Single,Small City
+35,33,High School,155569,Management,Female,Married,Mid City
+36,25,Unknown,104505,Unemployed,Male,Single,Small City
+37,31,Unknown,143385,Official,Male,Single,Big City
+38,37,High School,127676,Official,Male,Single,Mid City
+39,37,High School,119276,Official,Male,Single,Mid City
+40,24,Unknown,92542,Official,Male,Single,Mid City
+41,30,Unknown,163329,Management,Male,Single,Mid City
+42,26,High School,130921,Official,Male,Married,Small City
+43,44,High School,133658,Unemployed,Male,Single,Small City
+44,24,High School,155104,Official,Male,Married,Mid City
+45,58,University,142335,Unemployed,Female,Married,Mid City
+46,35,High School,138387,Management,Female,Married,Mid City
+47,39,High School,140182,Official,Male,Single,Small City
+48,23,High School,65421,Unemployed,Female,Married,Small City
+49,39,High School,130500,Unemployed,Male,Single,Small City
+50,28,High School,122831,Official,Female,Married,Small City
+51,29,Unknown,84531,Unemployed,Male,Single,Small City
+52,30,Unknown,180196,Management,Male,Single,Big City
+53,25,Unknown,92058,Official,Male,Single,Big City
+54,31,Unknown,117158,Official,Male,Single,Small City
+55,57,University,135830,Official,Male,Single,Mid City
+56,26,Unknown,58258,Unemployed,Male,Single,Small City
+57,52,High School,202575,Management,Male,Single,Big City
+58,31,High School,183657,Official,Female,Married,Mid City
+59,23,High School,152267,Management,Female,Married,Mid City
+60,23,High School,115240,Unemployed,Female,Married,Small City
+61,27,High School,106955,Official,Male,Married,Big City
+62,50,High School,123641,Official,Male,Single,Mid City
+63,61,University,166410,Management,Male,Single,Mid City
+64,25,Unknown,227385,Official,Male,Single,Big City
+65,26,High School,118372,Official,Female,Married,Mid City
+66,48,High School,148115,Official,Male,Single,Mid City
+67,29,High School,111069,Official,Female,Married,Small City
+68,22,High School,139780,Official,Male,Married,Small City
+69,37,High School,106978,Official,Male,Single,Big City
+70,25,High School,110019,Official,Female,Married,Big City
+71,30,High School,169102,Official,Female,Married,Mid City
+72,46,High School,73703,Unemployed,Male,Single,Small City
+73,51,High School,141858,Management,Male,Single,Big City
+74,41,University,135959,Unemployed,Female,Married,Small City
+75,40,High School,140888,Management,Male,Single,Big City
+76,66,University,157299,Management,Male,Single,Big City
+77,34,High School,125187,Official,Male,Single,Mid City
+78,51,High School,155486,Official,Male,Single,Big City
+79,39,High School,151697,Unemployed,Male,Single,Small City
+80,22,High School,126400,Official,Male,Married,Mid City
+81,44,University,159246,Official,Female,Married,Big City
+82,47,High School,136138,Official,Male,Single,Mid City
+83,24,High School,84792,Unemployed,Female,Married,Small City
+84,58,University,100210,Unemployed,Female,Married,Small City
+85,52,High School,93706,Unemployed,Male,Single,Small City
+86,29,High School,133783,Management,Female,Married,Mid City
+87,27,High School,110064,Official,Female,Married,Big City
+88,47,High School,241068,Official,Male,Single,Mid City
+89,30,Unknown,149022,Management,Male,Single,Big City
+90,28,Unknown,92973,Official,Male,Single,Big City
+91,56,High School,110605,Official,Male,Single,Mid City
+92,54,High School,116604,Official,Male,Single,Mid City
+93,33,High School,71070,Unemployed,Female,Married,Small City
+94,20,Unknown,128678,Official,Male,Single,Mid City
+95,54,High School,165230,Official,Male,Single,Big City
+96,58,University,268340,Official,Male,Single,Mid City
+97,61,University,135070,Official,Female,Married,Mid City
+98,34,High School,134794,Official,Male,Single,Big City
+99,36,High School,120153,Official,Male,Single,Mid City
+100,36,High School,195465,Management,Male,Single,Big City
+101,41,High School,93372,Unemployed,Male,Married,Small City
+102,24,Unknown,110446,Official,Male,Single,Small City
+103,24,High School,95186,Official,Female,Married,Mid City
+104,35,High School,115343,Official,Male,Single,Mid City
+105,26,High School,107276,Official,Male,Married,Mid City
+106,39,High School,244716,Management,Male,Single,Big City
+107,39,High School,183108,Management,Male,Single,Big City
+108,32,Unknown,152876,Official,Male,Single,Big City
+109,30,High School,165147,Official,Female,Married,Small City
+110,35,High School,140520,Official,Male,Married,Small City
+111,31,High School,124203,Official,Male,Married,Mid City
+112,23,High School,107205,Official,Female,Married,Mid City
+113,28,Unknown,121432,Unemployed,Male,Single,Big City
+114,25,High School,162445,Official,Female,Married,Small City
+115,35,High School,134112,Official,Male,Married,Mid City
+116,47,High School,131842,Official,Male,Single,Mid City
+117,30,High School,189896,Management,Female,Married,Small City
+118,27,High School,109099,Official,Female,Married,Big City
+119,23,High School,153539,Official,Female,Married,Mid City
+120,36,High School,180495,Management,Male,Married,Mid City
+121,25,High School,104653,Official,Female,Married,Big City
+122,41,University,166933,Management,Female,Married,Big City
+123,24,Unknown,66118,Unemployed,Male,Single,Small City
+124,63,University,135754,Official,Male,Single,Small City
+125,27,High School,116103,Official,Female,Married,Big City
+126,30,Unknown,104293,Official,Male,Single,Mid City
+127,40,High School,71702,Unemployed,Male,Married,Small City
+128,30,Unknown,99066,Official,Male,Single,Big City
+129,34,High School,143979,Management,Male,Single,Big City
+130,29,High School,123818,Official,Female,Married,Small City
+131,24,High School,176714,Official,Female,Married,Big City
+132,29,Unknown,149249,Official,Male,Single,Big City
+133,27,Unknown,77535,Unemployed,Male,Single,Small City
+134,47,High School,116540,Official,Male,Single,Mid City
+135,21,High School,194728,Official,Female,Married,Small City
+136,38,High School,109311,Official,Female,Married,Big City
+137,27,Unknown,204723,Official,Male,Single,Big City
+138,66,University,126003,Unemployed,Male,Single,Small City
+139,35,High School,123109,Official,Male,Single,Mid City
+140,44,University,108251,Unemployed,Female,Married,Small City
+141,27,High School,89908,Unemployed,Male,Married,Small City
+142,30,High School,176057,Management,Female,Married,Mid City
+143,27,Unknown,144332,Management,Male,Single,Big City
+144,22,Unknown,101185,Official,Male,Single,Mid City
+145,23,High School,107406,Official,Female,Married,Big City
+146,30,Unknown,140665,Official,Male,Single,Mid City
+147,39,University,106461,Official,Female,Married,Small City
+148,51,University,127825,Official,Female,Married,Small City
+149,28,Unknown,133898,Official,Male,Single,Mid City
+150,46,High School,152383,Official,Male,Single,Big City
+151,42,High School,119926,Official,Male,Single,Small City
+152,38,High School,108784,Official,Male,Single,Big City
+153,24,Unknown,153286,Official,Male,Single,Mid City
+154,29,High School,214204,Official,Female,Married,Big City
+155,36,High School,208101,Management,Male,Single,Big City
+156,20,High School,95355,Official,Female,Married,Mid City
+157,48,High School,124156,Official,Male,Single,Mid City
+158,45,University,72215,Unemployed,Male,Married,Small City
+159,38,High School,146529,Official,Male,Single,Big City
+160,34,High School,75343,Unemployed,Male,Single,Small City
+161,36,High School,129789,Official,Male,Single,Mid City
+162,30,High School,101153,Official,Female,Married,Mid City
+163,36,High School,127833,Official,Male,Single,Big City
+164,70,University,224998,Management,Male,Single,Big City
+165,36,High School,124445,Official,Male,Single,Big City
+166,32,Unknown,141116,Official,Male,Single,Mid City
+167,33,High School,104276,Official,Female,Married,Big City
+168,20,High School,147687,Official,Female,Married,Big City
+169,25,High School,125168,Official,Female,Married,Mid City
+170,31,High School,115369,Official,Male,Married,Big City
+171,33,High School,95445,Official,Male,Single,Small City
+172,26,High School,95159,Official,Female,Married,Mid City
+173,34,High School,153031,Management,Female,Married,Big City
+174,33,High School,108899,Official,Male,Single,Small City
+175,26,Unknown,113515,Official,Male,Single,Mid City
+176,53,University,211229,Management,Female,Married,Small City
+177,42,University,121307,Official,Male,Married,Small City
+178,52,High School,131727,Official,Male,Single,Big City
+179,31,Unknown,133574,Management,Male,Single,Mid City
+180,65,University,117334,Official,Male,Single,Small City
+181,28,High School,177291,Official,Male,Married,Big City
+182,30,High School,168763,Management,Male,Married,Mid City
+183,40,High School,77720,Unemployed,Male,Single,Small City
+184,50,High School,176645,Official,Male,Single,Big City
+185,36,High School,106205,Official,Male,Single,Mid City
+186,31,Unknown,97785,Official,Male,Single,Mid City
+187,74,Graduate,214364,Management,Female,Married,Mid City
+188,68,University,74525,Unemployed,Male,Single,Small City
+189,20,High School,98988,Official,Male,Married,Small City
+190,33,High School,133561,Official,Female,Married,Mid City
+191,54,High School,217651,Management,Male,Single,Big City
+192,34,High School,116525,Unemployed,Male,Single,Small City
+193,36,High School,135302,Official,Male,Single,Big City
+194,29,High School,106434,Official,Male,Married,Mid City
+195,21,Unknown,128350,Official,Male,Single,Big City
+196,34,High School,147626,Management,Female,Married,Big City
+197,28,High School,102697,Official,Female,Married,Small City
+198,27,High School,120262,Official,Female,Married,Small City
+199,36,High School,124214,Official,Male,Single,Big City
+200,40,High School,175223,Management,Male,Married,Mid City
+201,52,High School,137467,Official,Male,Single,Small City
+202,27,High School,65815,Unemployed,Male,Married,Small City
+203,26,Unknown,129864,Official,Male,Single,Mid City
+204,21,High School,88475,Official,Male,Married,Mid City
+205,38,High School,74666,Unemployed,Male,Single,Small City
+206,38,High School,222294,Management,Male,Single,Big City
+207,43,High School,112878,Official,Male,Single,Small City
+208,26,Unknown,103411,Official,Male,Single,Big City
+209,21,High School,112868,Unemployed,Male,Married,Small City
+210,55,High School,157940,Official,Male,Single,Big City
+211,33,High School,115835,Official,Male,Single,Big City
+212,45,University,109807,Unemployed,Female,Married,Small City
+213,50,High School,150699,Official,Male,Single,Mid City
+214,66,University,178967,Management,Male,Single,Small City
+215,51,High School,132767,Official,Male,Single,Small City
+216,39,University,86152,Unemployed,Female,Married,Small City
+217,31,Unknown,114528,Official,Male,Single,Big City
+218,23,Unknown,133912,Official,Male,Single,Mid City
+219,24,High School,81210,Unemployed,Male,Married,Small City
+220,64,Graduate,131242,Official,Female,Married,Small City
+221,26,High School,68804,Unemployed,Male,Married,Small City
+222,23,High School,96961,Official,Female,Married,Mid City
+223,30,Unknown,90719,Official,Male,Single,Big City
+224,32,Unknown,114116,Official,Male,Single,Mid City
+225,30,Unknown,128639,Official,Male,Single,Mid City
+226,27,Unknown,106623,Official,Male,Single,Mid City
+227,27,Unknown,236264,Official,Male,Single,Mid City
+228,53,High School,207783,Management,Male,Single,Mid City
+229,22,Unknown,91739,Official,Male,Single,Mid City
+230,22,Unknown,107780,Official,Male,Single,Big City
+231,26,Unknown,139157,Official,Male,Single,Big City
+232,51,High School,121751,Unemployed,Male,Single,Small City
+233,35,High School,121974,Official,Male,Single,Small City
+234,25,High School,70320,Unemployed,Male,Married,Small City
+235,42,High School,78327,Unemployed,Male,Single,Small City
+236,30,Unknown,131433,Management,Male,Single,Small City
+237,23,Unknown,167076,Unemployed,Male,Single,Big City
+238,61,University,130788,Unemployed,Male,Married,Small City
+239,35,High School,107408,Official,Female,Married,Mid City
+240,39,High School,115323,Official,Male,Single,Mid City
+241,29,High School,99012,Official,Female,Married,Small City
+242,51,High School,115996,Official,Male,Single,Mid City
+243,24,Unknown,123353,Official,Male,Single,Mid City
+244,27,High School,100008,Official,Female,Married,Small City
+245,35,High School,125105,Unemployed,Female,Married,Small City
+246,25,Unknown,92020,Official,Male,Single,Big City
+247,52,High School,108365,Official,Male,Single,Big City
+248,35,High School,112979,Official,Male,Single,Small City
+249,26,Unknown,117221,Official,Male,Single,Mid City
+250,22,High School,88800,Official,Female,Married,Big City
+251,39,University,115099,Unemployed,Female,Married,Small City
+252,46,University,113399,Unemployed,Female,Married,Small City
+253,24,High School,115879,Official,Female,Married,Mid City
+254,35,High School,141270,Official,Male,Single,Big City
+255,24,Unknown,107633,Official,Male,Single,Mid City
+256,27,Unknown,131751,Unemployed,Male,Single,Small City
+257,35,High School,83687,Unemployed,Male,Single,Small City
+258,29,High School,106828,Official,Male,Married,Big City
+259,23,High School,135537,Official,Female,Married,Mid City
+260,57,University,107142,Unemployed,Female,Married,Small City
+261,27,Unknown,97446,Official,Male,Single,Mid City
+262,55,University,126357,Official,Female,Married,Big City
+263,36,High School,169617,Management,Male,Single,Mid City
+264,57,University,108945,Unemployed,Female,Married,Small City
+265,32,Unknown,67345,Unemployed,Male,Single,Small City
+266,37,High School,106215,Official,Male,Single,Small City
+267,36,High School,149237,Official,Male,Single,Small City
+268,38,High School,112124,Official,Female,Married,Small City
+269,45,University,215150,Management,Male,Married,Big City
+270,25,Unknown,89534,Official,Male,Single,Mid City
+271,32,Unknown,111082,Official,Male,Single,Big City
+272,37,High School,137069,Official,Female,Married,Mid City
+273,36,High School,244541,Management,Male,Single,Big City
+274,28,Unknown,120712,Official,Male,Single,Mid City
+275,34,High School,175367,Unemployed,Male,Married,Small City
+276,32,Unknown,111418,Official,Male,Single,Mid City
+277,26,High School,110913,Official,Female,Married,Small City
+278,49,University,84267,Unemployed,Male,Married,Small City
+279,32,High School,136886,Official,Female,Married,Big City
+280,29,Unknown,144884,Management,Male,Single,Big City
+281,23,Unknown,151180,Official,Male,Single,Mid City
+282,50,High School,114997,Official,Male,Single,Mid City
+283,49,High School,100961,Unemployed,Male,Single,Small City
+284,63,University,124849,Official,Male,Single,Big City
+285,37,High School,152308,Official,Male,Married,Big City
+286,35,High School,167945,Unemployed,Female,Married,Mid City
+287,26,Unknown,126706,Official,Male,Single,Big City
+288,31,Unknown,210017,Management,Male,Single,Big City
+289,49,University,125665,Official,Female,Married,Mid City
+290,48,University,111184,Official,Male,Married,Mid City
+291,26,High School,94134,Official,Male,Married,Small City
+292,28,High School,214620,Management,Male,Married,Mid City
+293,44,University,193816,Management,Female,Married,Mid City
+294,56,High School,168714,Official,Male,Single,Mid City
+295,46,University,202997,Management,Male,Married,Mid City
+296,26,High School,192451,Official,Female,Married,Big City
+297,20,High School,127928,Official,Female,Married,Big City
+298,45,High School,78253,Unemployed,Male,Single,Small City
+299,43,High School,118446,Official,Male,Single,Mid City
+300,32,Unknown,161379,Official,Male,Single,Big City
+301,54,University,56622,Unemployed,Female,Married,Small City
+302,42,University,146117,Official,Female,Married,Mid City
+303,37,High School,90418,Unemployed,Male,Single,Small City
+304,49,High School,109053,Official,Male,Single,Small City
+305,44,High School,219319,Official,Male,Single,Small City
+306,33,High School,144701,Official,Male,Married,Mid City
+307,24,High School,102425,Unemployed,Female,Married,Small City
+308,33,High School,79867,Unemployed,Male,Married,Small City
+309,24,High School,107114,Official,Female,Married,Big City
+310,22,High School,62263,Unemployed,Male,Married,Small City
+311,40,High School,92567,Unemployed,Male,Single,Small City
+312,25,Unknown,146349,Official,Male,Single,Small City
+313,26,High School,141825,Official,Female,Married,Mid City
+314,25,High School,68582,Unemployed,Male,Married,Small City
+315,29,Unknown,85476,Unemployed,Male,Single,Small City
+316,31,Unknown,111091,Official,Male,Single,Big City
+317,38,High School,67110,Unemployed,Male,Single,Small City
+318,48,University,126154,Unemployed,Female,Married,Small City
+319,32,Unknown,92257,Official,Male,Single,Big City
+320,27,High School,93605,Unemployed,Female,Married,Small City
+321,28,High School,165190,Management,Male,Married,Small City
+322,32,High School,107195,Official,Male,Married,Small City
+323,34,High School,145059,Management,Male,Single,Small City
+324,28,Unknown,148363,Official,Male,Single,Small City
+325,36,High School,105681,Official,Female,Married,Big City
+326,39,High School,93732,Unemployed,Male,Single,Small City
+327,49,High School,154778,Official,Male,Single,Big City
+328,34,High School,149356,Official,Female,Married,Big City
+329,31,Unknown,145670,Official,Male,Single,Mid City
+330,28,Unknown,101589,Official,Male,Single,Big City
+331,75,University,213333,Management,Male,Single,Mid City
+332,30,High School,122420,Official,Female,Married,Small City
+333,24,High School,209856,Management,Female,Married,Mid City
+334,24,High School,181003,Unemployed,Female,Married,Small City
+335,23,Unknown,117804,Official,Male,Single,Mid City
+336,44,University,160650,Management,Male,Married,Mid City
+337,23,High School,84611,Unemployed,Female,Married,Small City
+338,24,High School,98479,Official,Female,Married,Big City
+339,28,Unknown,122359,Official,Male,Single,Big City
+340,31,High School,81394,Unemployed,Male,Married,Small City
+341,24,High School,150372,Official,Female,Married,Mid City
+342,26,High School,92385,Unemployed,Female,Married,Small City
+343,25,High School,149851,Official,Male,Married,Big City
+344,33,High School,167939,Management,Male,Single,Mid City
+345,37,High School,115426,Unemployed,Male,Single,Small City
+346,43,University,85402,Unemployed,Female,Married,Small City
+347,23,Unknown,95815,Official,Male,Single,Big City
+348,23,High School,97518,Unemployed,Female,Married,Small City
+349,34,High School,87355,Unemployed,Male,Single,Small City
+350,32,Unknown,145933,Official,Male,Single,Mid City
+351,23,High School,97307,Official,Female,Married,Small City
+352,29,High School,108434,Official,Female,Married,Big City
+353,38,High School,151312,Management,Male,Single,Mid City
+354,28,Unknown,141847,Official,Male,Single,Mid City
+355,46,High School,130675,Official,Male,Single,Big City
+356,23,Unknown,69309,Unemployed,Male,Single,Small City
+357,49,High School,121466,Official,Male,Single,Big City
+358,26,Unknown,153586,Management,Male,Single,Big City
+359,28,High School,92849,Official,Male,Married,Small City
+360,23,High School,108539,Official,Female,Married,Big City
+361,61,University,129556,Official,Male,Single,Big City
+362,37,High School,170146,Management,Male,Single,Small City
+363,36,High School,135383,Official,Female,Married,Mid City
+364,21,High School,96769,Official,Male,Married,Big City
+365,25,Unknown,43684,Unemployed,Male,Single,Small City
+366,36,High School,103521,Official,Male,Single,Small City
+367,27,Unknown,118499,Official,Male,Single,Mid City
+368,22,High School,119684,Official,Female,Married,Big City
+369,42,High School,126586,Official,Male,Single,Mid City
+370,40,University,136812,Official,Female,Married,Big City
+371,36,High School,118277,Official,Male,Single,Mid City
+372,33,High School,144597,Official,Male,Single,Mid City
+373,23,High School,106043,Official,Female,Married,Small City
+374,63,University,272314,Management,Male,Single,Big City
+375,60,University,309364,Management,Female,Married,Big City
+376,37,High School,170386,Official,Female,Married,Mid City
+377,34,High School,112458,Official,Male,Married,Small City
+378,36,High School,96840,Official,Male,Single,Mid City
+379,57,University,281923,Management,Male,Single,Mid City
+380,52,University,95551,Unemployed,Female,Married,Small City
+381,39,High School,112347,Official,Male,Single,Big City
+382,38,High School,260977,Management,Female,Married,Big City
+383,25,High School,99354,Official,Female,Married,Small City
+384,26,Unknown,111509,Official,Male,Single,Big City
+385,26,Unknown,105252,Unemployed,Male,Single,Small City
+386,25,High School,108522,Official,Female,Married,Small City
+387,21,High School,94655,Official,Female,Married,Mid City
+388,40,High School,201699,Management,Male,Single,Mid City
+389,27,Unknown,139868,Official,Male,Single,Big City
+390,27,High School,102543,Official,Female,Married,Mid City
+391,30,High School,134467,Management,Male,Married,Big City
+392,19,High School,111187,Unemployed,Female,Married,Small City
+393,39,High School,152302,Management,Male,Single,Mid City
+394,31,High School,110610,Official,Female,Married,Big City
+395,31,Unknown,137827,Management,Male,Single,Big City
+396,32,Unknown,220923,Official,Male,Single,Big City
+397,55,University,165717,Management,Female,Married,Big City
+398,46,University,122299,Official,Male,Married,Small City
+399,46,University,120499,Official,Male,Married,Small City
+400,43,University,126449,Unemployed,Female,Married,Small City
+401,39,High School,108315,Official,Male,Married,Big City
+402,28,High School,112515,Official,Male,Married,Mid City
+403,27,Unknown,164559,Official,Male,Single,Mid City
+404,27,Unknown,59238,Unemployed,Male,Single,Small City
+405,43,High School,131133,Official,Male,Single,Small City
+406,22,High School,109188,Official,Male,Married,Small City
+407,43,High School,115393,Official,Male,Single,Mid City
+408,27,High School,94711,Official,Male,Married,Big City
+409,26,High School,171860,Management,Male,Married,Small City
+410,28,High School,139414,Official,Male,Married,Big City
+411,20,High School,110931,Official,Female,Married,Mid City
+412,35,High School,187549,Management,Male,Single,Big City
+413,42,High School,145508,Management,Male,Single,Small City
+414,40,High School,104240,Unemployed,Male,Single,Small City
+415,35,High School,108272,Official,Female,Married,Mid City
+416,35,High School,144004,Official,Male,Single,Big City
+417,33,High School,81083,Unemployed,Male,Single,Small City
+418,23,High School,166763,Official,Female,Married,Mid City
+419,31,High School,175530,Management,Female,Married,Mid City
+420,33,High School,112422,Official,Female,Married,Mid City
+421,20,High School,154134,Official,Female,Married,Big City
+422,30,Unknown,112401,Official,Male,Single,Mid City
+423,47,High School,85690,Unemployed,Male,Single,Small City
+424,34,High School,145896,Management,Male,Single,Big City
+425,25,High School,122552,Official,Female,Married,Big City
+426,21,High School,115494,Official,Male,Married,Big City
+427,29,Unknown,109467,Official,Male,Single,Small City
+428,46,High School,148226,Official,Male,Single,Big City
+429,20,Unknown,88559,Official,Male,Single,Mid City
+430,55,University,62393,Unemployed,Female,Married,Small City
+431,74,University,122133,Unemployed,Male,Single,Small City
+432,29,Unknown,230883,Management,Male,Single,Big City
+433,36,High School,136689,Management,Male,Single,Big City
+434,33,High School,109145,Official,Male,Married,Small City
+435,25,Unknown,100449,Official,Male,Single,Big City
+436,25,High School,106253,Official,Male,Married,Small City
+437,23,High School,84747,Unemployed,Male,Married,Small City
+438,37,High School,149465,Official,Female,Married,Mid City
+439,65,University,84435,Unemployed,Male,Single,Small City
+440,26,High School,51681,Unemployed,Female,Married,Small City
+441,39,High School,139198,Management,Male,Single,Mid City
+442,30,High School,106577,Official,Female,Married,Mid City
+443,29,Unknown,117372,Official,Male,Single,Big City
+444,41,High School,69609,Unemployed,Male,Single,Small City
+445,30,High School,178947,Management,Female,Married,Big City
+446,41,University,81743,Unemployed,Female,Married,Small City
+447,34,High School,111900,Official,Female,Married,Mid City
+448,35,High School,121650,Official,Male,Single,Small City
+449,55,University,172639,Management,Female,Married,Big City
+450,61,University,175740,Official,Male,Married,Mid City
+451,30,Unknown,220050,Management,Male,Single,Big City
+452,29,High School,95200,Official,Female,Married,Mid City
+453,34,High School,113609,Official,Male,Single,Mid City
+454,35,High School,143552,Management,Male,Single,Big City
+455,31,Unknown,130973,Official,Male,Single,Big City
+456,29,High School,145946,Management,Female,Married,Big City
+457,36,High School,126206,Official,Male,Single,Mid City
+458,35,High School,120426,Official,Male,Single,Small City
+459,27,High School,91925,Official,Female,Married,Big City
+460,32,Unknown,129630,Official,Male,Single,Big City
+461,37,High School,124268,Official,Male,Single,Big City
+462,36,High School,105240,Official,Male,Single,Mid City
+463,34,High School,162180,Management,Female,Married,Small City
+464,38,High School,106552,Official,Male,Single,Big City
+465,34,High School,105843,Official,Male,Single,Big City
+466,63,University,138327,Official,Male,Single,Mid City
+467,29,High School,76154,Unemployed,Female,Married,Small City
+468,32,Unknown,155012,Official,Male,Single,Mid City
+469,26,High School,114369,Official,Female,Married,Mid City
+470,35,High School,102839,Unemployed,Male,Single,Small City
+471,22,High School,132796,Official,Male,Married,Small City
+472,23,High School,89742,Official,Female,Married,Big City
+473,28,Unknown,58615,Unemployed,Male,Single,Small City
+474,36,High School,130603,Management,Male,Single,Big City
+475,33,High School,110340,Official,Male,Married,Small City
+476,26,High School,117729,Official,Female,Married,Big City
+477,24,Unknown,130808,Official,Male,Single,Small City
+478,25,Unknown,147402,Official,Male,Single,Big City
+479,39,High School,93567,Unemployed,Male,Single,Small City
+480,44,High School,109289,Official,Male,Single,Mid City
+481,23,High School,98742,Unemployed,Female,Married,Small City
+482,26,Unknown,101270,Official,Male,Single,Small City
+483,57,University,187835,Official,Female,Married,Mid City
+484,30,High School,140741,Official,Female,Married,Small City
+485,44,High School,133265,Official,Male,Single,Big City
+486,47,High School,148100,Management,Male,Single,Big City
+487,52,High School,131021,Official,Male,Single,Big City
+488,62,University,152620,Official,Female,Married,Big City
+489,35,High School,85033,Unemployed,Male,Single,Small City
+490,26,Unknown,114514,Official,Male,Single,Mid City
+491,26,Unknown,99307,Official,Male,Single,Mid City
+492,42,University,219451,Management,Female,Married,Big City
+493,27,High School,114007,Official,Female,Married,Small City
+494,38,High School,102846,Official,Male,Single,Small City
+495,39,High School,81483,Unemployed,Male,Single,Small City
+496,20,High School,107779,Official,Male,Married,Big City
+497,29,Unknown,222360,Management,Male,Single,Big City
+498,40,High School,107125,Official,Male,Single,Small City
+499,32,High School,80080,Unemployed,Male,Married,Small City
+500,28,High School,129600,Official,Male,Married,Small City
+501,27,High School,118613,Official,Female,Married,Mid City
+502,42,High School,146237,Official,Male,Single,Mid City
+503,49,University,144461,Official,Male,Married,Big City
+504,38,High School,124487,Official,Male,Single,Small City
+505,24,High School,97826,Official,Female,Married,Small City
+506,27,Unknown,64105,Unemployed,Male,Single,Small City
+507,36,High School,156374,Official,Male,Single,Big City
+508,34,High School,205383,Management,Male,Single,Big City
+509,28,High School,98964,Official,Male,Married,Big City
+510,45,High School,221842,Management,Male,Single,Big City
+511,26,Unknown,88027,Official,Male,Single,Big City
+512,32,Unknown,160513,Management,Male,Single,Big City
+513,26,Unknown,124536,Official,Male,Single,Big City
+514,20,High School,93634,Official,Male,Married,Small City
+515,54,High School,124725,Official,Male,Single,Small City
+516,37,High School,102456,Official,Female,Married,Small City
+517,40,High School,74975,Unemployed,Male,Single,Small City
+518,23,High School,153861,Official,Female,Married,Mid City
+519,43,High School,119351,Official,Male,Single,Big City
+520,36,High School,95438,Official,Male,Single,Big City
+521,44,High School,147967,Official,Male,Single,Big City
+522,24,High School,116863,Official,Female,Married,Mid City
+523,53,High School,170622,Official,Male,Single,Mid City
+524,23,High School,132426,Official,Female,Married,Mid City
+525,26,High School,77519,Unemployed,Female,Married,Small City
+526,30,Unknown,169405,Official,Male,Single,Big City
+527,31,High School,120030,Official,Female,Married,Small City
+528,42,High School,77933,Unemployed,Male,Single,Small City
+529,31,High School,109892,Official,Male,Married,Mid City
+530,41,High School,69062,Unemployed,Male,Single,Small City
+531,32,Unknown,116348,Official,Male,Single,Small City
+532,28,High School,137188,Official,Female,Married,Mid City
+533,41,High School,110199,Official,Male,Married,Small City
+534,26,High School,109890,Official,Male,Married,Mid City
+535,25,Unknown,109751,Official,Male,Single,Big City
+536,33,High School,129651,Official,Male,Married,Mid City
+537,75,Graduate,170113,Management,Female,Married,Mid City
+538,37,High School,140285,Official,Female,Married,Mid City
+539,42,High School,198029,Management,Male,Single,Big City
+540,45,University,120262,Unemployed,Female,Married,Small City
+541,23,High School,105137,Official,Male,Married,Mid City
+542,60,University,127371,Official,Male,Single,Small City
+543,31,Unknown,145689,Official,Male,Single,Small City
+544,34,High School,102617,Unemployed,Male,Single,Mid City
+545,61,University,90709,Unemployed,Male,Single,Small City
+546,43,High School,107099,Official,Male,Single,Mid City
+547,37,High School,116021,Official,Female,Married,Big City
+548,32,Unknown,100426,Official,Male,Single,Big City
+549,24,High School,62249,Unemployed,Female,Married,Small City
+550,35,High School,172957,Official,Male,Single,Mid City
+551,23,High School,95003,Official,Female,Married,Mid City
+552,45,High School,109698,Unemployed,Male,Single,Small City
+553,34,High School,157376,Official,Male,Married,Small City
+554,27,Unknown,123191,Official,Male,Single,Big City
+555,67,Graduate,171052,Management,Female,Married,Small City
+556,22,Unknown,99328,Official,Male,Single,Small City
+557,28,High School,133799,Official,Female,Married,Big City
+558,29,High School,138256,Official,Female,Married,Big City
+559,27,Unknown,115638,Official,Male,Single,Small City
+560,31,Unknown,82238,Unemployed,Male,Single,Small City
+561,49,High School,127543,Official,Male,Single,Mid City
+562,24,Unknown,63987,Unemployed,Male,Single,Small City
+563,29,High School,114784,Official,Female,Married,Small City
+564,37,High School,217450,Official,Male,Single,Mid City
+565,37,High School,173751,Management,Male,Single,Big City
+566,23,High School,122850,Official,Female,Married,Small City
+567,36,High School,104953,Official,Male,Married,Small City
+568,34,High School,152371,Official,Male,Single,Mid City
+569,41,High School,139905,Official,Male,Single,Small City
+570,31,High School,156700,Official,Female,Married,Mid City
+571,23,High School,86488,Unemployed,Female,Married,Small City
+572,38,High School,147472,Official,Male,Single,Small City
+573,26,High School,169991,Management,Female,Married,Small City
+574,22,High School,62381,Unemployed,Female,Married,Small City
+575,27,Unknown,70926,Unemployed,Male,Single,Small City
+576,24,High School,113004,Official,Female,Married,Mid City
+577,27,High School,125760,Official,Female,Married,Small City
+578,33,High School,111918,Official,Female,Married,Big City
+579,27,High School,120674,Official,Male,Married,Mid City
+580,27,High School,63597,Unemployed,Male,Married,Small City
+581,30,Unknown,103069,Official,Male,Single,Mid City
+582,49,High School,108079,Unemployed,Male,Single,Small City
+583,26,High School,101159,Official,Female,Married,Mid City
+584,33,High School,88211,Unemployed,Male,Single,Small City
+585,52,University,159052,Management,Female,Married,Mid City
+586,20,High School,102623,Official,Female,Married,Big City
+587,36,High School,115589,Official,Male,Single,Small City
+588,21,Unknown,59127,Unemployed,Male,Single,Small City
+589,47,University,82240,Unemployed,Male,Married,Small City
+590,60,University,129425,Official,Male,Single,Mid City
+591,58,University,87058,Unemployed,Female,Married,Small City
+592,42,University,128462,Official,Female,Married,Big City
+593,36,High School,121403,Unemployed,Female,Married,Small City
+594,20,High School,88141,Unemployed,Female,Married,Small City
+595,40,High School,134946,Management,Male,Single,Big City
+596,32,High School,94058,Unemployed,Female,Married,Small City
+597,23,High School,99285,Official,Female,Married,Mid City
+598,36,High School,108432,Unemployed,Male,Single,Small City
+599,31,Unknown,111369,Official,Male,Single,Small City
+600,32,Unknown,122612,Official,Male,Single,Big City
+601,45,University,134350,Official,Female,Married,Small City
+602,30,High School,108838,Official,Female,Married,Big City
+603,34,High School,90852,Unemployed,Female,Married,Small City
+604,28,High School,151580,Management,Female,Married,Big City
+605,23,High School,115681,Official,Female,Married,Mid City
+606,22,Unknown,131699,Official,Male,Single,Mid City
+607,74,University,192481,Management,Male,Single,Mid City
+608,50,University,155122,Official,Female,Married,Big City
+609,33,High School,106015,Official,Male,Single,Big City
+610,45,High School,108378,Official,Male,Single,Small City
+611,22,High School,105257,Official,Female,Married,Mid City
+612,48,University,118788,Unemployed,Female,Married,Small City
+613,29,High School,162955,Official,Female,Married,Big City
+614,22,High School,119511,Official,Female,Married,Big City
+615,22,High School,102000,Official,Female,Married,Small City
+616,48,High School,254449,Management,Male,Single,Mid City
+617,27,Unknown,208446,Management,Male,Single,Big City
+618,37,High School,124805,Official,Male,Single,Small City
+619,21,High School,139379,Official,Female,Married,Small City
+620,49,University,78296,Unemployed,Male,Married,Small City
+621,27,Unknown,125598,Official,Male,Single,Mid City
+622,32,Unknown,100215,Official,Male,Single,Big City
+623,38,High School,130951,Official,Male,Married,Big City
+624,22,High School,102480,Official,Female,Married,Big City
+625,65,University,136812,Official,Male,Single,Mid City
+626,35,High School,106919,Official,Male,Single,Mid City
+627,41,High School,131020,Official,Male,Single,Big City
+628,29,Unknown,119429,Official,Male,Single,Mid City
+629,36,High School,154521,Official,Male,Single,Mid City
+630,64,University,117842,Unemployed,Male,Single,Small City
+631,28,High School,124566,Official,Female,Married,Big City
+632,44,High School,110009,Official,Male,Single,Big City
+633,23,Unknown,101210,Official,Male,Single,Mid City
+634,19,High School,101258,Official,Female,Married,Small City
+635,25,High School,79045,Unemployed,Female,Married,Small City
+636,47,High School,110866,Official,Male,Single,Small City
+637,28,High School,129640,Official,Female,Married,Big City
+638,21,Unknown,227021,Official,Male,Single,Mid City
+639,34,High School,108549,Official,Female,Married,Mid City
+640,26,Unknown,122693,Official,Male,Single,Small City
+641,27,High School,35832,Unemployed,Female,Married,Small City
+642,38,High School,81870,Unemployed,Male,Single,Small City
+643,40,High School,179790,Management,Male,Single,Big City
+644,33,High School,107158,Official,Male,Married,Mid City
+645,32,High School,136638,Management,Male,Married,Mid City
+646,27,Unknown,158147,Official,Male,Single,Big City
+647,32,High School,132587,Official,Male,Married,Big City
+648,26,High School,128140,Official,Female,Married,Big City
+649,38,High School,117405,Official,Male,Single,Mid City
+650,40,High School,68475,Unemployed,Male,Single,Small City
+651,50,High School,201656,Management,Male,Single,Big City
+652,37,High School,86967,Unemployed,Male,Single,Small City
+653,45,High School,118006,Official,Male,Single,Mid City
+654,42,High School,223630,Management,Male,Single,Big City
+655,35,High School,110442,Official,Male,Single,Small City
+656,22,Unknown,115691,Official,Male,Single,Big City
+657,41,High School,80232,Unemployed,Male,Single,Small City
+658,37,High School,187647,Official,Male,Single,Mid City
+659,28,High School,138952,Official,Female,Married,Mid City
+660,41,High School,162772,Official,Male,Single,Big City
+661,23,High School,111862,Official,Male,Married,Mid City
+662,23,High School,90051,Official,Male,Married,Mid City
+663,50,High School,121400,Official,Male,Single,Mid City
+664,35,High School,137000,Management,Male,Single,Big City
+665,50,University,105031,Unemployed,Female,Married,Small City
+666,27,Unknown,172153,Management,Male,Single,Big City
+667,34,High School,170184,Official,Male,Single,Mid City
+668,27,High School,123279,Official,Female,Married,Mid City
+669,43,High School,140795,Official,Male,Single,Small City
+670,47,High School,144456,Official,Male,Single,Small City
+671,27,Unknown,104773,Unemployed,Male,Single,Small City
+672,31,Unknown,153353,Official,Male,Single,Mid City
+673,42,High School,223018,Management,Male,Single,Mid City
+674,24,High School,129177,Official,Male,Married,Big City
+675,41,High School,114475,Unemployed,Male,Single,Mid City
+676,26,High School,161323,Management,Female,Married,Mid City
+677,33,High School,135765,Official,Male,Single,Big City
+678,24,High School,158421,Official,Male,Married,Small City
+679,64,University,103941,Unemployed,Male,Single,Small City
+680,26,High School,101783,Official,Female,Married,Big City
+681,56,University,126531,Official,Female,Married,Mid City
+682,37,High School,111394,Official,Male,Single,Mid City
+683,33,High School,103577,Official,Male,Married,Big City
+684,47,University,149545,Official,Male,Married,Mid City
+685,31,Unknown,171857,Unemployed,Male,Single,Small City
+686,34,High School,149782,Official,Male,Single,Mid City
+687,27,Unknown,112470,Official,Male,Single,Mid City
+688,30,Unknown,133907,Official,Male,Single,Big City
+689,35,High School,127849,Official,Male,Single,Mid City
+690,31,Unknown,160279,Official,Male,Single,Big City
+691,25,High School,92366,Official,Male,Married,Big City
+692,25,High School,104794,Unemployed,Female,Married,Small City
+693,29,Unknown,133436,Official,Male,Single,Mid City
+694,44,High School,110374,Unemployed,Male,Single,Small City
+695,28,Unknown,104263,Official,Male,Single,Mid City
+696,50,High School,138752,Official,Male,Single,Small City
+697,29,Unknown,102723,Official,Male,Single,Small City
+698,38,High School,46297,Unemployed,Female,Married,Small City
+699,24,Unknown,96425,Official,Male,Single,Mid City
+700,40,High School,158197,Management,Male,Single,Mid City
+701,29,High School,98008,Unemployed,Female,Married,Small City
+702,46,High School,157473,Official,Male,Single,Small City
+703,47,University,149306,Official,Female,Married,Small City
+704,41,High School,139236,Official,Male,Single,Mid City
+705,32,High School,125890,Official,Female,Married,Big City
+706,35,High School,173124,Official,Female,Married,Mid City
+707,24,Unknown,164621,Official,Male,Single,Mid City
+708,25,High School,124539,Official,Female,Married,Mid City
+709,25,High School,107614,Official,Female,Married,Mid City
+710,37,High School,88849,Unemployed,Male,Single,Small City
+711,32,Unknown,148566,Management,Male,Single,Big City
+712,35,High School,106515,Official,Female,Married,Big City
+713,46,High School,150465,Management,Male,Single,Mid City
+714,25,Unknown,60868,Unemployed,Male,Single,Small City
+715,27,Unknown,255198,Management,Male,Single,Big City
+716,63,University,183178,Official,Male,Single,Mid City
+717,40,High School,121448,Official,Male,Single,Big City
+718,32,Unknown,129975,Management,Male,Single,Big City
+719,31,Unknown,132950,Official,Male,Single,Big City
+720,31,High School,169314,Official,Male,Married,Mid City
+721,34,High School,147958,Management,Male,Single,Mid City
+722,24,High School,139896,Official,Female,Married,Big City
+723,24,High School,68028,Unemployed,Female,Married,Small City
+724,66,Graduate,133328,Unemployed,Female,Married,Small City
+725,21,High School,108518,Official,Female,Married,Big City
+726,41,University,112700,Unemployed,Female,Married,Small City
+727,47,University,110190,Unemployed,Male,Married,Small City
+728,25,High School,105104,Official,Female,Married,Mid City
+729,59,University,184753,Official,Female,Married,Mid City
+730,36,High School,162521,Official,Male,Married,Big City
+731,33,High School,156794,Official,Male,Single,Mid City
+732,21,Unknown,65827,Unemployed,Male,Single,Small City
+733,44,University,88490,Unemployed,Female,Married,Small City
+734,28,High School,154919,Official,Female,Married,Big City
+735,37,High School,129058,Official,Female,Married,Small City
+736,29,High School,77532,Unemployed,Female,Married,Small City
+737,23,High School,235417,Management,Female,Married,Big City
+738,35,High School,113468,Unemployed,Male,Single,Small City
+739,45,High School,190803,Management,Male,Single,Big City
+740,26,High School,121423,Unemployed,Female,Married,Small City
+741,32,Unknown,121347,Official,Male,Single,Mid City
+742,23,Unknown,67408,Unemployed,Male,Single,Small City
+743,41,High School,123043,Official,Male,Single,Mid City
+744,22,Unknown,128387,Official,Male,Single,Big City
+745,30,Unknown,250050,Management,Male,Single,Mid City
+746,28,Unknown,69588,Unemployed,Male,Single,Small City
+747,23,High School,109547,Official,Female,Married,Mid City
+748,37,High School,78840,Unemployed,Female,Married,Small City
+749,26,Unknown,131122,Official,Male,Single,Small City
+750,33,High School,115403,Official,Male,Single,Mid City
+751,49,University,110291,Official,Female,Married,Big City
+752,23,High School,64811,Unemployed,Female,Married,Small City
+753,23,High School,86015,Unemployed,Female,Married,Small City
+754,25,High School,142438,Official,Female,Married,Big City
+755,55,High School,159303,Official,Male,Single,Mid City
+756,32,High School,104957,Official,Female,Married,Mid City
+757,74,University,89502,Unemployed,Male,Single,Small City
+758,39,High School,121313,Official,Male,Single,Mid City
+759,31,Unknown,98102,Official,Male,Single,Small City
+760,35,High School,94554,Official,Male,Single,Mid City
+761,59,University,162591,Official,Female,Married,Mid City
+762,24,High School,106629,Official,Female,Married,Big City
+763,24,Unknown,70400,Unemployed,Male,Single,Small City
+764,30,Unknown,235660,Management,Male,Single,Big City
+765,27,High School,121747,Official,Male,Married,Big City
+766,40,High School,85060,Unemployed,Male,Married,Small City
+767,31,High School,87630,Unemployed,Male,Married,Small City
+768,31,High School,119673,Official,Female,Married,Small City
+769,28,Unknown,126060,Official,Male,Single,Big City
+770,63,University,96145,Unemployed,Male,Single,Small City
+771,26,High School,114830,Official,Female,Married,Small City
+772,25,High School,194461,Management,Female,Married,Big City
+773,36,High School,150158,Management,Male,Single,Big City
+774,52,High School,136323,Official,Male,Single,Big City
+775,66,University,111858,Unemployed,Male,Single,Small City
+776,25,High School,100198,Official,Female,Married,Small City
+777,37,High School,123452,Official,Male,Single,Big City
+778,25,High School,120723,Official,Female,Married,Mid City
+779,38,High School,215639,Management,Male,Single,Mid City
+780,67,Graduate,166712,Official,Female,Married,Mid City
+781,25,Unknown,136300,Official,Male,Single,Mid City
+782,60,University,166988,Official,Male,Single,Big City
+783,31,Unknown,77265,Unemployed,Male,Single,Small City
+784,23,High School,85967,Unemployed,Female,Married,Small City
+785,60,University,212020,Management,Male,Married,Small City
+786,35,High School,126054,Unemployed,Male,Single,Small City
+787,40,High School,144589,Official,Male,Single,Small City
+788,38,High School,116723,Official,Male,Single,Mid City
+789,50,High School,168637,Official,Male,Single,Mid City
+790,27,Unknown,139119,Official,Male,Single,Mid City
+791,39,University,118610,Official,Female,Married,Big City
+792,41,High School,183312,Management,Male,Single,Big City
+793,27,High School,96323,Official,Male,Married,Small City
+794,51,University,149510,Official,Male,Married,Big City
+795,32,Unknown,141922,Official,Male,Single,Big City
+796,22,High School,120233,Official,Female,Married,Small City
+797,51,High School,172790,Official,Male,Single,Mid City
+798,22,High School,66720,Unemployed,Female,Married,Small City
+799,54,University,113024,Official,Male,Married,Mid City
+800,35,High School,51791,Unemployed,Male,Single,Small City
+801,54,High School,118408,Official,Male,Single,Big City
+802,48,University,101616,Unemployed,Female,Married,Small City
+803,24,High School,127250,Official,Female,Married,Small City
+804,35,High School,97290,Official,Male,Single,Small City
+805,24,High School,106970,Unemployed,Female,Married,Small City
+806,24,Unknown,168147,Official,Male,Single,Big City
+807,26,High School,68468,Unemployed,Male,Married,Small City
+808,65,University,120780,Official,Male,Single,Big City
+809,55,High School,231992,Management,Male,Single,Big City
+810,26,High School,53903,Unemployed,Female,Married,Small City
+811,26,High School,101511,Official,Male,Married,Big City
+812,28,High School,69046,Unemployed,Male,Married,Small City
+813,24,Unknown,171584,Official,Male,Single,Mid City
+814,54,High School,132367,Official,Male,Single,Big City
+815,46,High School,134433,Official,Male,Single,Big City
+816,54,University,190518,Official,Female,Married,Small City
+817,62,University,152367,Official,Male,Married,Mid City
+818,24,High School,101157,Official,Female,Married,Mid City
+819,43,University,279593,Management,Male,Married,Big City
+820,26,High School,96716,Official,Male,Married,Big City
+821,27,High School,95171,Official,Male,Married,Small City
+822,24,High School,129162,Official,Male,Married,Big City
+823,41,High School,118742,Official,Male,Single,Small City
+824,47,High School,74511,Unemployed,Male,Single,Small City
+825,35,High School,157272,Management,Male,Married,Mid City
+826,30,High School,102374,Official,Male,Married,Small City
+827,33,High School,131492,Official,Female,Married,Small City
+828,36,High School,128702,Official,Male,Single,Big City
+829,47,High School,177509,Official,Male,Single,Big City
+830,38,High School,163451,Official,Male,Single,Mid City
+831,44,High School,144900,Official,Male,Single,Mid City
+832,23,High School,97115,Official,Female,Married,Big City
+833,29,Unknown,196568,Official,Male,Single,Big City
+834,42,University,158405,Official,Female,Married,Small City
+835,25,High School,97376,Unemployed,Female,Married,Small City
+836,48,High School,108678,Official,Male,Single,Mid City
+837,21,High School,92351,Official,Female,Married,Small City
+838,23,High School,61211,Unemployed,Female,Married,Small City
+839,63,University,138644,Official,Male,Single,Small City
+840,46,University,124824,Official,Male,Married,Big City
+841,29,Unknown,132852,Official,Male,Single,Small City
+842,28,Unknown,81069,Unemployed,Male,Single,Small City
+843,23,High School,104094,Official,Female,Married,Big City
+844,50,High School,114853,Official,Male,Single,Small City
+845,47,High School,130344,Official,Male,Single,Big City
+846,35,High School,135090,Official,Male,Single,Small City
+847,68,University,179151,Official,Male,Single,Big City
+848,28,High School,97390,Official,Male,Married,Mid City
+849,59,University,120160,Official,Male,Single,Small City
+850,57,University,82277,Unemployed,Male,Single,Small City
+851,33,High School,110844,Official,Male,Married,Big City
+852,43,High School,133105,Official,Male,Single,Small City
+853,35,High School,102042,Official,Male,Single,Small City
+854,32,Unknown,69370,Unemployed,Male,Single,Small City
+855,45,High School,200298,Official,Male,Single,Mid City
+856,33,High School,117039,Official,Male,Married,Big City
+857,40,University,107585,Official,Female,Married,Big City
+858,28,Unknown,114429,Official,Male,Single,Small City
+859,29,High School,128234,Official,Female,Married,Big City
+860,26,Unknown,128580,Official,Male,Single,Big City
+861,27,Unknown,177757,Official,Male,Single,Mid City
+862,28,High School,106222,Official,Male,Married,Small City
+863,35,High School,118428,Official,Female,Married,Big City
+864,32,Unknown,139477,Unemployed,Male,Single,Small City
+865,25,Unknown,71159,Unemployed,Male,Single,Small City
+866,20,High School,131370,Official,Female,Married,Big City
+867,27,High School,111567,Official,Female,Married,Big City
+868,42,High School,125482,Official,Male,Single,Big City
+869,37,High School,160642,Official,Male,Single,Big City
+870,24,High School,92498,Official,Female,Married,Small City
+871,40,University,199711,Official,Female,Married,Big City
+872,46,High School,127588,Official,Male,Single,Big City
+873,26,Unknown,107508,Official,Male,Single,Big City
+874,24,High School,94629,Official,Female,Married,Big City
+875,29,Unknown,87598,Unemployed,Male,Single,Big City
+876,40,University,161194,Official,Female,Married,Mid City
+877,36,High School,137342,Management,Male,Single,Big City
+878,28,Unknown,116848,Official,Male,Single,Mid City
+879,27,Unknown,125190,Management,Male,Single,Mid City
+880,36,High School,153441,Official,Male,Single,Small City
+881,38,High School,195328,Management,Male,Single,Big City
+882,48,University,190413,Official,Male,Married,Small City
+883,36,High School,118656,Official,Male,Single,Mid City
+884,65,Graduate,69487,Unemployed,Female,Married,Small City
+885,43,University,145313,Official,Male,Married,Mid City
+886,53,University,117005,Official,Female,Married,Mid City
+887,34,High School,123243,Official,Male,Single,Mid City
+888,23,Unknown,237799,Official,Male,Single,Mid City
+889,34,High School,180617,Management,Male,Single,Big City
+890,40,High School,167019,Official,Male,Single,Small City
+891,43,High School,147745,Management,Male,Single,Big City
+892,46,High School,114254,Official,Male,Single,Mid City
+893,38,High School,81155,Unemployed,Male,Single,Small City
+894,34,High School,151803,Official,Male,Single,Big City
+895,29,Unknown,94356,Official,Male,Single,Big City
+896,31,Unknown,200621,Management,Male,Single,Big City
+897,28,High School,144448,Management,Female,Married,Mid City
+898,35,High School,150797,Official,Female,Married,Small City
+899,33,High School,84404,Unemployed,Female,Married,Small City
+900,42,High School,133373,Official,Male,Single,Big City
+901,43,High School,119502,Official,Male,Single,Big City
+902,44,University,131619,Official,Male,Married,Small City
+903,42,High School,194084,Official,Male,Single,Big City
+904,40,High School,108278,Official,Male,Married,Mid City
+905,36,High School,130987,Management,Male,Single,Mid City
+906,20,Unknown,116582,Management,Male,Single,Big City
+907,24,Unknown,85270,Unemployed,Male,Single,Small City
+908,27,High School,129227,Official,Male,Married,Small City
+909,46,University,108291,Unemployed,Female,Married,Small City
+910,33,High School,103091,Unemployed,Female,Married,Small City
+911,34,High School,136975,Official,Female,Married,Mid City
+912,25,High School,111502,Unemployed,Female,Married,Small City
+913,25,High School,124750,Official,Female,Married,Mid City
+914,28,High School,146463,Official,Male,Married,Big City
+915,31,Unknown,115075,Official,Male,Single,Small City
+916,32,High School,308491,Management,Female,Married,Mid City
+917,32,Unknown,126368,Official,Male,Single,Small City
+918,68,University,287247,Management,Male,Single,Big City
+919,33,High School,125535,Official,Male,Married,Big City
+920,39,High School,153223,Management,Male,Single,Big City
+921,28,High School,106873,Official,Female,Married,Mid City
+922,37,High School,268906,Management,Male,Single,Mid City
+923,22,High School,97757,Official,Female,Married,Big City
+924,30,Unknown,112151,Official,Male,Single,Mid City
+925,55,University,172909,Official,Male,Married,Small City
+926,46,High School,103387,Official,Male,Single,Mid City
+927,21,High School,93916,Official,Female,Married,Big City
+928,39,High School,189963,Official,Male,Single,Big City
+929,58,University,124191,Official,Male,Single,Small City
+930,43,High School,77205,Unemployed,Male,Single,Small City
+931,24,Unknown,65917,Unemployed,Male,Single,Small City
+932,22,High School,109676,Official,Female,Married,Small City
+933,30,Unknown,95682,Official,Male,Single,Big City
+934,42,High School,125516,Official,Male,Single,Big City
+935,23,High School,99822,Official,Female,Married,Small City
+936,30,Unknown,154854,Management,Male,Single,Mid City
+937,28,High School,84582,Unemployed,Female,Married,Small City
+938,30,High School,145800,Management,Male,Married,Small City
+939,42,High School,162869,Official,Male,Single,Mid City
+940,46,High School,192379,Management,Male,Single,Big City
+941,45,High School,159757,Management,Male,Single,Big City
+942,31,Unknown,69571,Unemployed,Male,Single,Small City
+943,31,Unknown,93648,Official,Male,Single,Big City
+944,42,High School,77472,Unemployed,Male,Single,Small City
+945,46,University,121501,Official,Female,Married,Small City
+946,30,High School,207262,Official,Female,Married,Small City
+947,30,Unknown,143082,Official,Male,Single,Big City
+948,38,High School,147760,Management,Male,Single,Mid City
+949,43,University,82082,Unemployed,Male,Married,Small City
+950,31,Unknown,132991,Official,Male,Single,Mid City
+951,40,High School,78436,Unemployed,Male,Married,Small City
+952,24,Unknown,99737,Official,Male,Single,Big City
+953,28,High School,164915,Official,Female,Married,Small City
+954,26,High School,223185,Management,Female,Married,Mid City
+955,29,High School,108400,Official,Female,Married,Big City
+956,57,University,194882,Management,Female,Married,Mid City
+957,49,High School,122186,Unemployed,Male,Single,Small City
+958,37,High School,79594,Unemployed,Male,Single,Small City
+959,45,High School,104355,Unemployed,Male,Single,Small City
+960,30,Unknown,135894,Official,Male,Single,Big City
+961,30,High School,103699,Official,Male,Married,Mid City
+962,47,University,132145,Official,Male,Married,Mid City
+963,29,Unknown,117272,Official,Male,Single,Big City
+964,35,High School,137932,Official,Male,Single,Small City
+965,22,High School,63972,Unemployed,Male,Married,Small City
+966,26,High School,113299,Official,Female,Married,Big City
+967,23,Unknown,108540,Unemployed,Male,Single,Small City
+968,54,University,174424,Management,Female,Married,Big City
+969,29,High School,154991,Official,Male,Married,Big City
+970,40,High School,99723,Unemployed,Male,Single,Small City
+971,22,Unknown,114584,Official,Male,Single,Big City
+972,43,High School,135275,Unemployed,Male,Single,Small City
+973,29,High School,41680,Unemployed,Female,Married,Small City
+974,36,High School,158769,Official,Male,Single,Mid City
+975,33,High School,120596,Official,Female,Married,Small City
+976,57,University,139641,Unemployed,Female,Married,Small City
+977,64,Graduate,134377,Official,Female,Married,Small City
+978,42,High School,125804,Official,Male,Single,Big City
+979,47,High School,91858,Unemployed,Male,Single,Small City
+980,25,High School,117641,Official,Male,Married,Big City
+981,49,High School,188594,Official,Male,Single,Mid City
+982,33,High School,162827,Management,Male,Single,Big City
+983,28,High School,178991,Management,Female,Married,Big City
+984,26,Unknown,159739,Official,Male,Single,Mid City
+985,30,Unknown,73401,Unemployed,Male,Single,Small City
+986,25,High School,100794,Official,Female,Married,Big City
+987,33,High School,167763,Official,Male,Married,Mid City
+988,64,Graduate,145174,Official,Female,Married,Small City
+989,29,Unknown,176292,Management,Male,Single,Mid City
+990,48,High School,94024,Unemployed,Male,Single,Small City
+991,37,High School,93740,Unemployed,Male,Single,Small City
+992,34,High School,85685,Unemployed,Male,Single,Small City
+993,23,High School,69997,Unemployed,Male,Married,Small City
+994,30,Unknown,151938,Management,Male,Single,Big City
+995,50,High School,122830,Official,Male,Single,Mid City
+996,31,High School,78489,Unemployed,Female,Married,Small City
+997,40,High School,161999,Management,Male,Married,Mid City
+998,38,High School,98032,Official,Male,Single,Big City
+999,23,Unknown,96060,Official,Male,Single,Small City
+1000,27,Unknown,147968,Official,Male,Single,Mid City
+1001,63,University,134853,Official,Female,Married,Mid City
+1002,66,University,157576,Management,Male,Single,Big City
+1003,43,University,203738,Management,Male,Married,Mid City
+1004,44,University,280570,Management,Male,Married,Big City
+1005,65,Graduate,69487,Unemployed,Male,Married,Big City
+1006,73,Graduate,214126,Management,Female,Married,Mid City
+1007,60,University,136671,Official,Male,Single,Mid City
+1008,62,University,174337,Official,Male,Married,Mid City
+1009,58,University,126710,Official,Female,Married,Mid City
+1010,43,University,167139,Management,Female,Married,Big City
+1011,64,University,122094,Official,Male,Single,Big City
+1012,37,Graduate,170113,Management,Male,Married,Big City
+1013,46,University,192698,Management,Female,Married,Mid City
+1014,57,University,144197,Official,Male,Married,Big City
+1015,51,University,133623,Official,Male,Married,Mid City
+1016,32,Graduate,171052,Management,Female,Married,Big City
+1017,64,University,130492,Official,Male,Single,Big City
+1018,68,University,135705,Official,Male,Single,Mid City
+1019,55,University,171804,Management,Female,Married,Big City
+1020,73,University,192167,Management,Male,Single,Mid City
+1021,34,Graduate,134377,Official,Female,Married,Big City
+1022,44,University,146716,Official,Male,Married,Mid City
+1023,58,University,267872,Official,Male,Single,Mid City
+1024,65,University,142193,Unemployed,Female,Married,Mid City
+1025,56,University,183765,Official,Female,Married,Mid City
+1026,42,University,218664,Management,Female,Married,Big City
+1027,65,Graduate,145174,Official,Female,Married,Big City
+1028,72,University,224961,Management,Male,Single,Big City
+1029,45,University,262634,Management,Female,Married,Big City
+1030,68,University,287106,Management,Male,Single,Big City
+1031,60,University,166298,Management,Male,Single,Mid City
+1032,30,Graduate,133328,Unemployed,Female,Married,Big City
+1033,63,University,129798,Official,Male,Single,Mid City
+1034,57,University,281084,Management,Male,Single,Mid City
+1035,46,University,160678,Official,Female,Married,Big City
+1036,70,Graduate,167532,Official,Female,Married,Mid City
+1037,65,University,178591,Official,Male,Single,Big City
+1038,63,University,273063,Management,Male,Single,Big City
+1039,54,University,149410,Official,Male,Married,Big City
+1040,49,University,124658,Official,Male,Married,Big City
+1041,64,University,153645,Official,Female,Married,Big City
+1042,61,University,308529,Management,Female,Married,Big City
+1043,57,University,155062,Official,Female,Married,Big City
+1044,42,University,199654,Official,Female,Married,Big City
+1045,62,University,124723,Official,Male,Single,Big City
+1046,41,University,127752,Official,Female,Married,Big City
+1047,51,University,157595,Management,Female,Married,Mid City
+1048,38,University,135534,Official,Female,Married,Big City
+1049,56,University,166264,Management,Female,Married,Big City
+1050,43,University,147259,Official,Female,Married,Mid City
+1051,48,University,161116,Official,Female,Married,Mid City
+1052,61,University,139380,Official,Male,Single,Mid City
+1053,48,University,213768,Management,Male,Married,Big City
+1054,68,University,125903,Official,Male,Single,Big City
+1055,62,University,163940,Official,Female,Married,Mid City
+1056,56,University,173378,Management,Female,Married,Big City
+1057,53,University,126847,Official,Female,Married,Mid City
+1058,33,Graduate,166712,Official,Male,Married,Big City
+1059,60,University,189166,Official,Female,Married,Mid City
+1060,47,University,161714,Official,Female,Married,Mid City
+1061,25,Graduate,214364,Management,Male,Married,Big City
+1062,64,University,184680,Official,Male,Single,Mid City
+1063,73,University,214732,Management,Male,Single,Mid City
+1064,66,University,152527,Official,Male,Married,Mid City
+1065,76,Graduate,170366,Management,Female,Married,Mid City
+1066,60,University,194532,Management,Female,Married,Mid City
+1067,57,University,125883,Official,Female,Married,Big City
+1068,30,Graduate,131242,Official,Male,Married,Big City
+1069,43,University,159880,Management,Male,Married,Mid City
+1070,57,University,165519,Official,Male,Single,Big City
+1071,51,University,149653,Official,Male,Married,Mid City
+1072,61,University,134102,Official,Female,Married,Mid City
+1073,64,University,159378,Management,Male,Single,Big City
+1074,41,University,205476,Management,Male,Married,Mid City
+1075,43,University,280566,Management,Male,Married,Big City
+1076,67,Graduate,71823,Unemployed,Male,Married,Big City
+1077,71,Graduate,211572,Management,Female,Married,Mid City
+1078,59,University,136123,Official,Male,Single,Mid City
+1079,60,University,176372,Official,Male,Married,Mid City
+1080,60,University,128271,Official,Female,Married,Mid City
+1081,45,University,169020,Management,Female,Married,Big City
+1082,63,University,122267,Official,Male,Single,Big City
+1083,38,Graduate,169324,Management,Male,Married,Big City
+1084,46,University,192561,Management,Female,Married,Mid City
+1085,55,University,145781,Official,Male,Married,Big City
+1086,50,University,135376,Official,Male,Married,Mid City
+1087,30,Graduate,169002,Management,Female,Married,Big City
+1088,63,University,128469,Official,Male,Single,Big City
+1089,67,University,135567,Official,Male,Single,Mid City
+1090,54,University,170644,Management,Female,Married,Big City
+1091,71,University,192360,Management,Male,Single,Mid City
+1092,32,Graduate,133235,Official,Female,Married,Big City
+1093,45,University,260847,Management,Female,Married,Big City
+1094,65,University,285647,Management,Male,Single,Big City
+1095,62,University,164816,Management,Male,Single,Mid City
+1096,28,Graduate,130148,Unemployed,Female,Married,Big City
+1097,65,University,129838,Official,Male,Single,Mid City
+1098,57,University,281647,Management,Male,Single,Mid City
+1099,48,University,157305,Official,Female,Married,Big City
+1100,71,Graduate,163654,Official,Female,Married,Mid City
+1101,38,High School,82398,Official,Male,Single,Mid City
+1102,40,High School,107710,Official,Male,Married,Mid City
+1103,49,High School,122346,Official,Male,Single,Mid City
+1104,32,High School,155540,Management,Male,Married,Mid City
+1105,45,High School,127572,Official,Male,Single,Mid City
+1106,40,High School,154031,Management,Male,Single,Mid City
+1107,66,University,164931,Management,Male,Single,Big City
+1108,38,High School,123003,Official,Male,Single,Big City
+1109,20,High School,89605,Official,Male,Married,Mid City
+1110,48,High School,117721,Official,Male,Single,Mid City
+1111,46,University,168904,Management,Male,Married,Mid City
+1112,32,High School,137576,Management,Male,Single,Big City
+1113,54,High School,111274,Official,Male,Single,Mid City
+1114,24,High School,94249,Management,Male,Married,Big City
+1115,27,High School,180940,Management,Male,Married,Mid City
+1116,57,High School,125032,Official,Male,Single,Big City
+1117,38,High School,138011,Management,Male,Single,Mid City
+1118,40,High School,144850,Official,Male,Single,Mid City
+1119,20,High School,107270,Official,Male,Married,Big City
+1120,36,High School,113405,Management,Male,Single,Big City
+1121,47,High School,137338,Official,Male,Single,Big City
+1122,64,University,125119,Unemployed,Male,Single,Big City
+1123,42,High School,159745,Management,Male,Single,Big City
+1124,44,High School,181262,Management,Male,Single,Big City
+1125,30,High School,90500,Management,Male,Married,Big City
+1126,37,High School,102733,Official,Male,Single,Mid City
+1127,42,High School,135493,Official,Male,Single,Big City
+1128,62,University,169044,Official,Male,Married,Mid City
+1129,49,High School,178549,Official,Male,Single,Big City
+1130,52,High School,159716,Official,Male,Single,Big City
+1131,36,High School,170118,Management,Male,Married,Mid City
+1132,49,High School,143886,Unemployed,Male,Single,Mid City
+1133,42,High School,130164,Management,Male,Single,Big City
+1134,38,High School,114476,Official,Male,Single,Mid City
+1135,50,High School,126143,Official,Male,Single,Mid City
+1136,34,High School,129654,Management,Male,Married,Big City
+1137,43,High School,123202,Official,Male,Single,Big City
+1138,40,High School,160524,Official,Male,Single,Mid City
+1139,56,University,126906,Official,Male,Single,Mid City
+1140,41,High School,143994,Management,Male,Single,Big City
+1141,30,High School,123517,Management,Male,Married,Big City
+1142,28,High School,129055,Official,Male,Married,Big City
+1143,64,University,136312,Unemployed,Male,Single,Big City
+1144,67,University,112486,Official,Male,Single,Big City
+1145,37,High School,152401,Management,Male,Single,Mid City
+1146,31,High School,157453,Management,Male,Single,Mid City
+1147,32,High School,142870,Management,Male,Single,Big City
+1148,52,University,137231,Official,Male,Married,Big City
+1149,31,High School,104406,Official,Male,Married,Mid City
+1150,36,High School,145385,Management,Male,Single,Mid City
+1151,32,High School,146519,Management,Male,Married,Mid City
+1152,51,High School,126227,Official,Male,Single,Big City
+1153,47,High School,112227,Management,Male,Single,Mid City
+1154,34,High School,110145,Official,Male,Married,Big City
+1155,46,University,149419,Official,Male,Married,Mid City
+1156,42,High School,176646,Official,Male,Married,Mid City
+1157,39,High School,91019,Management,Male,Single,Mid City
+1158,50,High School,169579,Official,Male,Single,Big City
+1159,42,High School,142305,Official,Male,Single,Big City
+1160,36,High School,130602,Official,Male,Married,Mid City
+1161,18,High School,98992,Official,Male,Married,Mid City
+1162,35,High School,181926,Management,Male,Single,Big City
+1163,38,High School,152864,Official,Male,Single,Big City
+1164,39,High School,135837,Management,Male,Single,Big City
+1165,24,High School,121757,Unemployed,Male,Married,Big City
+1166,41,High School,182274,Official,Male,Single,Mid City
+1167,36,High School,149040,Management,Male,Single,Big City
+1168,37,High School,154196,Management,Male,Single,Big City
+1169,45,University,135332,Official,Male,Married,Mid City
+1170,41,High School,134200,Management,Male,Single,Big City
+1171,36,High School,177171,Management,Male,Single,Big City
+1172,38,High School,115964,Unemployed,Male,Single,Big City
+1173,38,High School,136871,Unemployed,Male,Single,Mid City
+1174,53,University,159559,Management,Male,Married,Big City
+1175,35,High School,113878,Official,Male,Single,Big City
+1176,48,High School,171203,Management,Male,Single,Big City
+1177,36,High School,102180,Official,Male,Single,Big City
+1178,22,High School,116844,Management,Male,Married,Mid City
+1179,35,High School,139844,Management,Male,Single,Big City
+1180,42,High School,156431,Unemployed,Male,Single,Mid City
+1181,39,High School,116137,Unemployed,Male,Single,Mid City
+1182,31,High School,143081,Official,Male,Single,Mid City
+1183,33,High School,155870,Management,Male,Single,Big City
+1184,31,High School,106924,Unemployed,Male,Married,Mid City
+1185,42,High School,102133,Official,Male,Single,Mid City
+1186,61,University,145227,Unemployed,Male,Single,Mid City
+1187,38,High School,159500,Management,Male,Single,Big City
+1188,33,High School,98498,Unemployed,Male,Single,Mid City
+1189,48,High School,159714,Official,Male,Single,Big City
+1190,31,High School,121852,Unemployed,Male,Single,Mid City
+1191,52,High School,141271,Management,Male,Single,Big City
+1192,27,High School,123213,Official,Male,Married,Big City
+1193,40,High School,143723,Management,Male,Single,Mid City
+1194,34,High School,112538,Unemployed,Male,Single,Mid City
+1195,26,High School,97932,Management,Male,Married,Big City
+1196,30,High School,154003,Unemployed,Male,Single,Mid City
+1197,53,High School,177179,Official,Male,Single,Mid City
+1198,45,High School,128052,Official,Male,Single,Big City
+1199,32,High School,114617,Management,Male,Single,Mid City
+1200,35,High School,182822,Management,Male,Single,Big City
+1201,26,High School,177215,Official,Male,Married,Big City
+1202,30,High School,110929,Official,Male,Single,Mid City
+1203,37,High School,111821,Official,Male,Single,Mid City
+1204,32,High School,97306,Management,Male,Single,Mid City
+1205,40,High School,157231,Official,Male,Married,Mid City
+1206,44,High School,126906,Unemployed,Male,Single,Big City
+1207,43,High School,133243,Official,Male,Single,Big City
+1208,51,High School,112250,Official,Male,Single,Mid City
+1209,37,High School,104349,Unemployed,Male,Single,Mid City
+1210,33,High School,151421,Official,Male,Single,Big City
+1211,32,High School,178081,Management,Male,Married,Mid City
+1212,35,High School,110181,Unemployed,Male,Single,Big City
+1213,30,High School,113012,Official,Male,Married,Mid City
+1214,35,High School,154585,Management,Male,Married,Big City
+1215,40,High School,144704,Management,Male,Single,Mid City
+1216,37,High School,141632,Management,Male,Single,Big City
+1217,37,High School,105055,Official,Male,Single,Big City
+1218,37,High School,124597,Official,Male,Single,Big City
+1219,53,High School,160164,Management,Male,Single,Mid City
+1220,34,High School,151754,Management,Male,Single,Mid City
+1221,51,High School,155551,Official,Male,Single,Mid City
+1222,26,High School,94986,Official,Male,Married,Big City
+1223,34,High School,175800,Unemployed,Male,Single,Mid City
+1224,51,High School,126246,Management,Male,Single,Mid City
+1225,33,High School,116261,Official,Male,Single,Big City
+1226,32,High School,117796,Unemployed,Male,Married,Big City
+1227,39,High School,115363,Official,Male,Single,Mid City
+1228,53,High School,169076,Official,Male,Single,Mid City
+1229,34,High School,97474,Management,Male,Single,Big City
+1230,37,High School,140341,Official,Male,Single,Big City
+1231,28,High School,114503,Official,Male,Married,Mid City
+1232,25,High School,102937,Official,Male,Married,Big City
+1233,36,High School,151781,Management,Male,Single,Big City
+1234,36,High School,123133,Official,Male,Married,Big City
+1235,35,High School,118879,Official,Male,Single,Big City
+1236,21,High School,158683,Official,Male,Married,Mid City
+1237,29,High School,107514,Official,Male,Married,Big City
+1238,60,University,193879,Official,Male,Single,Mid City
+1239,45,High School,135043,Official,Male,Single,Mid City
+1240,56,University,108559,Unemployed,Male,Married,Mid City
+1241,30,High School,121038,Official,Male,Married,Big City
+1242,52,High School,151947,Management,Male,Single,Big City
+1243,26,High School,118820,Official,Male,Married,Mid City
+1244,43,High School,121517,Official,Male,Single,Mid City
+1245,34,High School,113572,Official,Male,Single,Mid City
+1246,22,High School,131170,Official,Male,Married,Big City
+1247,42,High School,92430,Unemployed,Male,Single,Mid City
+1248,38,High School,124554,Unemployed,Male,Single,Mid City
+1249,29,High School,115988,Official,Male,Married,Big City
+1250,44,High School,107301,Official,Male,Single,Big City
+1251,29,High School,103767,Management,Male,Married,Mid City
+1252,44,High School,141493,Official,Male,Single,Big City
+1253,38,High School,154339,Official,Male,Single,Big City
+1254,26,High School,112369,Unemployed,Male,Married,Mid City
+1255,53,High School,158193,Official,Male,Single,Mid City
+1256,43,High School,143734,Official,Male,Single,Mid City
+1257,33,High School,121890,Official,Male,Single,Mid City
+1258,52,High School,127609,Unemployed,Male,Single,Mid City
+1259,26,High School,94650,Unemployed,Male,Married,Big City
+1260,38,High School,175504,Management,Male,Single,Mid City
+1261,47,High School,165495,Official,Male,Single,Big City
+1262,26,High School,120389,Official,Male,Married,Mid City
+1263,36,High School,165340,Official,Male,Married,Mid City
+1264,36,High School,119804,Official,Male,Single,Mid City
+1265,57,University,154344,Management,Male,Single,Mid City
+1266,31,High School,106266,Management,Male,Married,Big City
+1267,45,High School,136129,Official,Male,Single,Mid City
+1268,40,High School,151914,Management,Male,Single,Mid City
+1269,21,High School,121473,Official,Male,Married,Mid City
+1270,46,High School,127147,Official,Male,Single,Big City
+1271,35,High School,125387,Official,Male,Single,Big City
+1272,31,High School,139490,Unemployed,Male,Married,Big City
+1273,51,High School,124990,Official,Male,Single,Big City
+1274,21,High School,101471,Management,Male,Married,Mid City
+1275,48,High School,155708,Official,Male,Single,Mid City
+1276,48,High School,142345,Official,Male,Single,Big City
+1277,68,University,148675,Unemployed,Male,Single,Mid City
+1278,45,University,116484,Official,Male,Married,Big City
+1279,35,High School,150237,Management,Male,Single,Big City
+1280,22,High School,100273,Official,Male,Married,Big City
+1281,44,High School,122292,Unemployed,Male,Single,Mid City
+1282,52,High School,159216,Official,Male,Single,Mid City
+1283,48,High School,130082,Official,Male,Single,Big City
+1284,33,High School,139547,Official,Male,Single,Big City
+1285,35,High School,122895,Official,Male,Married,Mid City
+1286,64,University,154549,Official,Male,Married,Mid City
+1287,58,High School,149315,Unemployed,Male,Single,Big City
+1288,24,High School,118101,Unemployed,Male,Married,Big City
+1289,40,High School,115831,Unemployed,Male,Single,Big City
+1290,49,High School,118571,Management,Male,Single,Big City
+1291,31,High School,138906,Official,Male,Single,Big City
+1292,46,High School,98520,Official,Male,Single,Big City
+1293,46,High School,106576,Official,Male,Single,Mid City
+1294,49,High School,121592,Official,Male,Single,Mid City
+1295,29,High School,135605,Unemployed,Male,Single,Mid City
+1296,37,High School,114552,Official,Male,Single,Big City
+1297,33,High School,151339,Management,Male,Single,Mid City
+1298,71,University,170387,Official,Male,Single,Big City
+1299,35,High School,118288,Official,Male,Single,Big City
+1300,40,High School,109992,Official,Male,Single,Big City
+1301,27,High School,90654,Unemployed,Female,Single,Small City
+1302,61,University,113290,Unemployed,Female,Single,Small City
+1303,29,High School,100093,Official,Female,Married,Mid City
+1304,33,High School,109489,Official,Female,Single,Small City
+1305,56,University,139427,Unemployed,Female,Single,Small City
+1306,27,High School,123411,Official,Female,Married,Mid City
+1307,22,High School,137925,Official,Female,Married,Small City
+1308,19,High School,99119,Official,Female,Married,Small City
+1309,28,High School,91084,Official,Female,Married,Mid City
+1310,24,High School,110137,Official,Female,Married,Mid City
+1311,27,High School,67041,Unemployed,Female,Married,Small City
+1312,30,High School,127299,Official,Female,Married,Mid City
+1313,26,High School,84555,Unemployed,Female,Single,Small City
+1314,26,High School,123895,Official,Female,Married,Small City
+1315,23,High School,94324,Official,Female,Married,Mid City
+1316,28,High School,96062,Official,Female,Married,Small City
+1317,67,Graduate,144843,Official,Female,Married,Small City
+1318,27,High School,107485,Official,Female,Married,Mid City
+1319,32,High School,98573,Official,Female,Married,Small City
+1320,24,High School,107462,Unemployed,Female,Single,Small City
+1321,28,High School,115809,Official,Female,Married,Mid City
+1322,48,University,118749,Unemployed,Female,Single,Small City
+1323,32,High School,139112,Official,Female,Married,Mid City
+1324,25,High School,94075,Official,Female,Married,Small City
+1325,57,University,62002,Unemployed,Female,Married,Small City
+1326,28,High School,127262,Official,Female,Married,Small City
+1327,24,High School,122846,Official,Female,Married,Mid City
+1328,25,High School,61907,Unemployed,Female,Married,Small City
+1329,31,High School,89287,Unemployed,Female,Single,Small City
+1330,33,High School,103696,Official,Female,Single,Mid City
+1331,50,University,147603,Official,Female,Married,Small City
+1332,58,University,139229,Unemployed,Female,Married,Mid City
+1333,27,High School,107932,Unemployed,Female,Married,Small City
+1334,48,University,116235,Unemployed,Female,Married,Small City
+1335,22,High School,85974,Unemployed,Female,Married,Small City
+1336,40,High School,124001,Unemployed,Female,Married,Small City
+1337,32,High School,121428,Official,Female,Married,Small City
+1338,25,High School,93233,Unemployed,Female,Single,Small City
+1339,27,High School,67965,Unemployed,Female,Married,Small City
+1340,27,High School,88001,Unemployed,Female,Married,Small City
+1341,23,High School,129112,Official,Female,Married,Small City
+1342,32,High School,109324,Official,Female,Married,Mid City
+1343,25,High School,112785,Official,Female,Married,Mid City
+1344,46,University,136735,Unemployed,Female,Married,Small City
+1345,21,High School,107779,Official,Female,Married,Mid City
+1346,29,High School,103526,Official,Female,Married,Small City
+1347,31,High School,93171,Unemployed,Female,Married,Small City
+1348,26,High School,106559,Unemployed,Female,Single,Small City
+1349,23,High School,112728,Official,Female,Married,Mid City
+1350,38,High School,102855,Official,Female,Single,Mid City
+1351,35,High School,85381,Unemployed,Female,Single,Small City
+1352,27,High School,100762,Official,Female,Married,Mid City
+1353,22,High School,131445,Official,Female,Married,Mid City
+1354,52,University,123194,Official,Female,Married,Small City
+1355,19,High School,99519,Official,Female,Married,Mid City
+1356,23,High School,112853,Official,Female,Married,Small City
+1357,42,High School,110509,Official,Female,Single,Small City
+1358,27,High School,106446,Official,Female,Married,Mid City
+1359,39,University,89665,Unemployed,Female,Married,Small City
+1360,50,University,128233,Official,Female,Married,Mid City
+1361,36,High School,133615,Official,Female,Married,Small City
+1362,25,High School,115833,Official,Female,Married,Mid City
+1363,27,High School,65560,Unemployed,Female,Married,Small City
+1364,30,High School,118642,Official,Female,Married,Small City
+1365,22,High School,63635,Unemployed,Female,Single,Small City
+1366,27,High School,122649,Official,Female,Married,Mid City
+1367,31,High School,143321,Management,Female,Single,Mid City
+1368,29,High School,99556,Official,Female,Married,Small City
+1369,34,High School,36760,Unemployed,Female,Single,Small City
+1370,33,High School,71935,Unemployed,Female,Single,Small City
+1371,26,High School,114977,Official,Female,Married,Small City
+1372,36,High School,147691,Official,Female,Married,Mid City
+1373,26,High School,54296,Unemployed,Female,Married,Small City
+1374,39,High School,80014,Unemployed,Female,Married,Small City
+1375,44,University,77887,Unemployed,Female,Married,Small City
+1376,46,University,98517,Unemployed,Female,Married,Small City
+1377,31,High School,103012,Unemployed,Female,Married,Small City
+1378,26,High School,121377,Official,Female,Single,Small City
+1379,22,High School,91359,Official,Female,Married,Mid City
+1380,48,University,104833,Unemployed,Female,Single,Small City
+1381,27,High School,101209,Official,Female,Married,Small City
+1382,30,High School,58207,Unemployed,Female,Single,Small City
+1383,27,High School,116708,Official,Female,Married,Mid City
+1384,36,High School,107471,Official,Female,Married,Mid City
+1385,31,High School,128495,Official,Female,Married,Small City
+1386,21,High School,124468,Official,Female,Single,Small City
+1387,26,High School,106922,Official,Female,Married,Mid City
+1388,24,High School,104291,Official,Female,Single,Small City
+1389,29,High School,98204,Official,Female,Married,Small City
+1390,32,High School,127071,Official,Female,Married,Small City
+1391,45,University,85115,Unemployed,Female,Married,Small City
+1392,58,University,104013,Unemployed,Female,Married,Small City
+1393,25,High School,89863,Official,Female,Married,Small City
+1394,67,Graduate,135300,Official,Female,Married,Small City
+1395,53,University,107861,Unemployed,Female,Married,Small City
+1396,24,High School,123994,Official,Female,Married,Small City
+1397,20,High School,91270,Unemployed,Female,Single,Small City
+1398,71,Graduate,133245,Unemployed,Female,Married,Small City
+1399,31,High School,118594,Official,Female,Married,Mid City
+1400,27,High School,40606,Unemployed,Female,Married,Small City
+1401,36,High School,129304,Unemployed,Female,Married,Small City
+1402,25,High School,113118,Official,Female,Married,Small City
+1403,41,High School,133131,Official,Female,Single,Small City
+1404,30,High School,106876,Official,Female,Married,Mid City
+1405,32,High School,130870,Official,Female,Married,Mid City
+1406,29,High School,125621,Unemployed,Female,Married,Small City
+1407,27,High School,78923,Unemployed,Female,Single,Small City
+1408,32,High School,123983,Official,Female,Married,Small City
+1409,25,High School,75184,Unemployed,Female,Married,Small City
+1410,24,High School,109693,Official,Female,Single,Small City
+1411,63,University,86273,Unemployed,Female,Married,Small City
+1412,42,University,113190,Unemployed,Female,Single,Small City
+1413,22,High School,109274,Unemployed,Female,Married,Small City
+1414,46,University,143489,Official,Female,Married,Mid City
+1415,24,High School,99570,Official,Female,Married,Mid City
+1416,30,High School,139468,Official,Female,Single,Mid City
+1417,44,University,108627,Unemployed,Female,Married,Small City
+1418,25,High School,106355,Official,Female,Single,Small City
+1419,27,High School,96952,Official,Female,Married,Small City
+1420,27,High School,141502,Official,Female,Married,Mid City
+1421,34,High School,110420,Official,Female,Married,Mid City
+1422,18,High School,97741,Official,Female,Married,Mid City
+1423,25,High School,99583,Official,Female,Married,Mid City
+1424,21,High School,63698,Unemployed,Female,Married,Small City
+1425,26,High School,116688,Official,Female,Married,Mid City
+1426,27,High School,131542,Management,Female,Married,Mid City
+1427,25,High School,136055,Official,Female,Single,Mid City
+1428,30,High School,100195,Official,Female,Married,Mid City
+1429,66,Graduate,131001,Official,Female,Single,Small City
+1430,25,High School,104062,Official,Female,Married,Mid City
+1431,43,University,137689,Official,Female,Married,Small City
+1432,35,High School,137705,Official,Female,Married,Mid City
+1433,70,Graduate,69915,Unemployed,Female,Single,Small City
+1434,35,High School,68731,Unemployed,Female,Single,Small City
+1435,26,High School,105726,Official,Female,Married,Small City
+1436,29,High School,78078,Unemployed,Female,Single,Small City
+1437,22,High School,110835,Unemployed,Female,Married,Small City
+1438,26,High School,115531,Official,Female,Single,Mid City
+1439,36,High School,92723,Unemployed,Female,Married,Small City
+1440,35,High School,107509,Official,Female,Married,Mid City
+1441,28,High School,116763,Official,Female,Married,Mid City
+1442,24,High School,100733,Official,Female,Married,Small City
+1443,34,High School,92652,Unemployed,Female,Married,Small City
+1444,25,High School,106987,Official,Female,Married,Small City
+1445,54,University,51882,Unemployed,Female,Married,Small City
+1446,46,University,104751,Unemployed,Female,Single,Small City
+1447,42,High School,50947,Unemployed,Female,Married,Small City
+1448,45,University,126986,Unemployed,Female,Single,Small City
+1449,48,University,110223,Unemployed,Female,Single,Small City
+1450,21,High School,100591,Unemployed,Female,Single,Small City
+1451,31,High School,123257,Official,Female,Married,Small City
+1452,35,High School,137736,Official,Female,Single,Mid City
+1453,36,High School,110221,Official,Female,Married,Mid City
+1454,32,High School,99703,Unemployed,Female,Married,Small City
+1455,26,High School,106667,Unemployed,Female,Married,Small City
+1456,34,High School,143319,Official,Female,Married,Small City
+1457,65,University,135557,Official,Female,Married,Mid City
+1458,50,University,93390,Unemployed,Female,Married,Small City
+1459,39,High School,97577,Official,Female,Married,Small City
+1460,52,University,124196,Unemployed,Female,Single,Small City
+1461,36,High School,81136,Unemployed,Female,Married,Small City
+1462,29,High School,119439,Official,Female,Married,Small City
+1463,36,High School,145231,Official,Female,Married,Mid City
+1464,36,High School,85623,Unemployed,Female,Married,Small City
+1465,27,High School,145373,Official,Female,Married,Mid City
+1466,36,High School,135896,Management,Female,Married,Mid City
+1467,26,High School,106470,Official,Female,Married,Mid City
+1468,57,University,113334,Official,Female,Single,Mid City
+1469,27,High School,100560,Unemployed,Female,Single,Small City
+1470,58,University,108442,Unemployed,Female,Married,Small City
+1471,27,High School,64472,Unemployed,Female,Married,Small City
+1472,49,University,120207,Official,Female,Married,Small City
+1473,43,University,101680,Official,Female,Married,Small City
+1474,45,University,92342,Unemployed,Female,Single,Small City
+1475,27,High School,98611,Unemployed,Female,Married,Small City
+1476,34,High School,97613,Official,Female,Married,Mid City
+1477,21,High School,82298,Unemployed,Female,Married,Small City
+1478,54,University,125302,Official,Female,Married,Mid City
+1479,43,University,108725,Unemployed,Female,Married,Small City
+1480,25,High School,85569,Unemployed,Female,Single,Small City
+1481,57,University,110372,Unemployed,Female,Single,Small City
+1482,26,High School,100511,Official,Female,Married,Mid City
+1483,30,High School,110455,Official,Female,Single,Small City
+1484,58,University,141993,Unemployed,Female,Single,Small City
+1485,25,High School,121789,Official,Female,Married,Mid City
+1486,23,High School,138967,Official,Female,Married,Small City
+1487,22,High School,105230,Official,Female,Single,Small City
+1488,21,High School,90656,Official,Female,Married,Mid City
+1489,20,High School,115445,Official,Female,Married,Mid City
+1490,22,High School,59955,Unemployed,Female,Married,Small City
+1491,27,High School,126268,Official,Female,Single,Mid City
+1492,24,High School,80830,Unemployed,Female,Single,Small City
+1493,23,High School,123625,Official,Female,Married,Small City
+1494,26,High School,102543,Official,Female,Married,Mid City
+1495,28,High School,101948,Official,Female,Single,Small City
+1496,64,Graduate,142280,Official,Female,Married,Small City
+1497,26,High School,105434,Official,Female,Married,Mid City
+1498,31,High School,106115,Official,Female,Married,Small City
+1499,28,High School,111057,Unemployed,Female,Single,Small City
+1500,25,High School,117758,Official,Female,Married,Mid City
+1501,49,University,118396,Unemployed,Female,Single,Small City
+1502,33,High School,136260,Official,Female,Married,Mid City
+1503,27,High School,97192,Official,Female,Single,Small City
+1504,59,University,62101,Unemployed,Female,Married,Small City
+1505,28,High School,123497,Official,Female,Married,Small City
+1506,24,High School,120326,Official,Female,Married,Mid City
+1507,26,High School,66645,Unemployed,Female,Married,Small City
+1508,33,High School,83429,Unemployed,Female,Single,Small City
+1509,37,High School,107539,Official,Female,Single,Mid City
+1510,46,University,153880,Official,Female,Married,Small City
+1511,62,University,140178,Unemployed,Female,Married,Mid City
+1512,26,High School,100402,Unemployed,Female,Single,Small City
+1513,49,University,122158,Unemployed,Female,Married,Small City
+1514,25,High School,89331,Unemployed,Female,Married,Small City
+1515,37,High School,125359,Unemployed,Female,Married,Small City
+1516,31,High School,124110,Official,Female,Single,Small City
+1517,25,High School,93526,Unemployed,Female,Single,Small City
+1518,21,High School,70170,Unemployed,Female,Married,Small City
+1519,27,High School,82357,Unemployed,Female,Married,Small City
+1520,29,High School,126745,Official,Female,Married,Small City
+1521,30,High School,103326,Official,Female,Married,Mid City
+1522,26,High School,116048,Official,Female,Married,Mid City
+1523,40,University,137115,Unemployed,Female,Married,Small City
+1524,23,High School,105365,Official,Female,Married,Mid City
+1525,31,High School,95911,Official,Female,Married,Small City
+1526,29,High School,88669,Unemployed,Female,Married,Small City
+1527,22,High School,103776,Unemployed,Female,Single,Small City
+1528,26,High School,108864,Official,Female,Married,Mid City
+1529,39,High School,106037,Official,Female,Single,Mid City
+1530,35,High School,84851,Unemployed,Female,Single,Small City
+1531,26,High School,95748,Official,Female,Married,Mid City
+1532,28,High School,133616,Official,Female,Married,Mid City
+1533,56,University,132752,Official,Female,Married,Small City
+1534,22,High School,95712,Official,Female,Married,Mid City
+1535,26,High School,109063,Official,Female,Married,Small City
+1536,41,High School,113521,Official,Female,Single,Small City
+1537,29,High School,109380,Official,Female,Married,Mid City
+1538,42,University,82558,Unemployed,Female,Married,Small City
+1539,50,University,124777,Official,Female,Married,Mid City
+1540,33,High School,133542,Official,Female,Married,Small City
+1541,28,High School,116492,Official,Female,Married,Mid City
+1542,27,High School,68834,Unemployed,Female,Married,Small City
+1543,27,High School,124023,Official,Female,Married,Small City
+1544,28,High School,63882,Unemployed,Female,Single,Small City
+1545,24,High School,122492,Official,Female,Married,Mid City
+1546,28,High School,141453,Management,Female,Single,Mid City
+1547,32,High School,99327,Official,Female,Married,Small City
+1548,32,High School,45590,Unemployed,Female,Single,Small City
+1549,30,High School,71167,Unemployed,Female,Single,Small City
+1550,29,High School,111992,Official,Female,Married,Small City
+1551,37,High School,145140,Official,Female,Married,Mid City
+1552,24,High School,49672,Unemployed,Female,Married,Small City
+1553,36,High School,75536,Unemployed,Female,Married,Small City
+1554,40,University,86720,Unemployed,Female,Married,Small City
+1555,51,University,97729,Unemployed,Female,Married,Small City
+1556,33,High School,106808,Unemployed,Female,Married,Small City
+1557,31,High School,117971,Official,Female,Single,Small City
+1558,29,High School,97731,Official,Female,Married,Mid City
+1559,48,University,109196,Unemployed,Female,Single,Small City
+1560,25,High School,94905,Official,Female,Married,Small City
+1561,28,High School,57480,Unemployed,Female,Single,Small City
+1562,23,High School,109175,Official,Female,Married,Mid City
+1563,32,High School,111174,Official,Female,Married,Mid City
+1564,34,High School,127255,Official,Female,Married,Small City
+1565,23,High School,115499,Official,Female,Single,Small City
+1566,25,High School,109499,Official,Female,Married,Mid City
+1567,25,High School,104696,Official,Female,Single,Small City
+1568,27,High School,104467,Official,Female,Married,Small City
+1569,29,High School,120157,Official,Female,Married,Small City
+1570,46,University,81200,Unemployed,Female,Married,Small City
+1571,61,University,97558,Unemployed,Female,Married,Small City
+1572,25,High School,95914,Official,Female,Married,Small City
+1573,67,Graduate,128053,Official,Female,Married,Small City
+1574,49,University,101734,Unemployed,Female,Married,Small City
+1575,21,High School,126009,Official,Female,Married,Small City
+1576,19,High School,91232,Unemployed,Female,Single,Small City
+1577,67,Graduate,128343,Unemployed,Female,Married,Small City
+1578,31,High School,110040,Official,Female,Married,Mid City
+1579,27,High School,38247,Unemployed,Female,Married,Small City
+1580,37,High School,129027,Unemployed,Female,Married,Small City
+1581,27,High School,115026,Official,Female,Married,Small City
+1582,36,High School,130323,Official,Female,Single,Small City
+1583,24,High School,103181,Official,Female,Married,Mid City
+1584,31,High School,138307,Official,Female,Married,Mid City
+1585,29,High School,122564,Unemployed,Female,Married,Small City
+1586,28,High School,82351,Unemployed,Female,Single,Small City
+1587,34,High School,125351,Official,Female,Married,Small City
+1588,26,High School,82940,Unemployed,Female,Married,Small City
+1589,21,High School,108029,Official,Female,Single,Small City
+1590,63,University,82734,Unemployed,Female,Married,Small City
+1591,38,University,116816,Unemployed,Female,Single,Small City
+1592,20,High School,113472,Unemployed,Female,Married,Small City
+1593,44,University,143343,Official,Female,Married,Mid City
+1594,31,High School,104074,Official,Female,Married,Mid City
+1595,33,High School,138525,Official,Female,Single,Mid City
+1596,49,University,106960,Unemployed,Female,Married,Small City
+1597,26,High School,108323,Official,Female,Single,Small City
+1598,28,High School,95784,Official,Female,Married,Small City
+1599,30,High School,140673,Official,Female,Married,Mid City
+1600,36,High School,104235,Official,Female,Married,Mid City
+1601,27,High School,54041,Unemployed,Female,Married,Small City
+1602,23,Unknown,107961,Unemployed,Male,Single,Small City
+1603,31,Unknown,113757,Official,Male,Single,Small City
+1604,27,High School,94884,Official,Female,Married,Small City
+1605,25,High School,126041,Official,Female,Married,Small City
+1606,23,High School,64952,Unemployed,Female,Married,Small City
+1607,27,High School,66764,Unemployed,Male,Married,Small City
+1608,38,High School,67861,Unemployed,Female,Single,Small City
+1609,44,High School,113516,Unemployed,Male,Single,Small City
+1610,42,High School,46109,Unemployed,Female,Married,Small City
+1611,25,High School,103651,Unemployed,Female,Married,Small City
+1612,40,High School,75043,Unemployed,Male,Married,Small City
+1613,24,High School,116473,Unemployed,Female,Married,Small City
+1614,39,High School,96614,Unemployed,Female,Single,Small City
+1615,24,Unknown,66447,Unemployed,Male,Single,Small City
+1616,50,High School,119068,Official,Female,Single,Small City
+1617,28,High School,122973,Unemployed,Female,Married,Small City
+1618,36,High School,81609,Unemployed,Female,Married,Small City
+1619,36,High School,105519,Official,Male,Single,Small City
+1620,40,High School,86649,Unemployed,Female,Married,Small City
+1621,31,Unknown,76384,Unemployed,Female,Single,Small City
+1622,27,High School,67136,Unemployed,Male,Married,Small City
+1623,35,High School,93155,Unemployed,Female,Married,Small City
+1624,51,High School,124183,Unemployed,Male,Single,Small City
+1625,26,Unknown,64860,Unemployed,Female,Single,Small City
+1626,33,High School,87232,Unemployed,Male,Single,Small City
+1627,27,High School,92304,Unemployed,Female,Married,Small City
+1628,38,High School,84254,Unemployed,Male,Single,Small City
+1629,30,Unknown,106696,Official,Female,Single,Small City
+1630,28,Unknown,113212,Official,Male,Single,Small City
+1631,23,Unknown,71076,Unemployed,Male,Single,Small City
+1632,23,High School,114270,Unemployed,Female,Married,Small City
+1633,26,High School,125538,Official,Female,Married,Small City
+1634,21,High School,92442,Unemployed,Female,Married,Small City
+1635,36,High School,75297,Unemployed,Female,Single,Small City
+1636,24,High School,65707,Unemployed,Female,Married,Small City
+1637,41,High School,120387,Official,Male,Single,Small City
+1638,42,High School,120946,Official,Male,Single,Small City
+1639,27,Unknown,73265,Unemployed,Male,Single,Small City
+1640,40,High School,77481,Unemployed,Male,Married,Small City
+1641,34,High School,91282,Unemployed,Female,Married,Small City
+1642,40,High School,104405,Unemployed,Male,Single,Small City
+1643,33,High School,99646,Official,Male,Single,Small City
+1644,49,High School,97791,Unemployed,Female,Single,Small City
+1645,28,Unknown,81878,Unemployed,Male,Single,Small City
+1646,26,High School,107908,Official,Female,Married,Small City
+1647,40,High School,98608,Unemployed,Female,Single,Small City
+1648,47,High School,95228,Unemployed,Male,Single,Small City
+1649,41,High School,128163,Official,Female,Married,Small City
+1650,29,High School,94325,Unemployed,Female,Married,Small City
+1651,37,High School,90815,Unemployed,Female,Married,Small City
+1652,31,Unknown,120719,Official,Male,Single,Small City
+1653,35,High School,110159,Official,Male,Single,Small City
+1654,35,High School,124490,Official,Male,Single,Small City
+1655,29,High School,75161,Unemployed,Female,Married,Small City
+1656,37,High School,127206,Official,Female,Single,Small City
+1657,37,High School,83660,Unemployed,Male,Single,Small City
+1658,26,High School,87400,Unemployed,Female,Married,Small City
+1659,28,High School,78942,Unemployed,Female,Married,Small City
+1660,23,High School,88452,Unemployed,Female,Married,Small City
+1661,38,High School,104128,Official,Male,Single,Small City
+1662,30,High School,100313,Official,Female,Married,Small City
+1663,45,High School,107387,Official,Female,Single,Small City
+1664,24,Unknown,84355,Unemployed,Male,Single,Small City
+1665,35,High School,112723,Official,Female,Single,Small City
+1666,41,High School,115892,Official,Female,Married,Small City
+1667,30,High School,106597,Official,Male,Married,Small City
+1668,30,High School,121327,Official,Female,Married,Small City
+1669,26,High School,92559,Unemployed,Female,Married,Small City
+1670,25,High School,87537,Unemployed,Female,Married,Small City
+1671,23,High School,70569,Unemployed,Female,Married,Small City
+1672,27,High School,85294,Unemployed,Female,Married,Small City
+1673,26,Unknown,70905,Unemployed,Female,Single,Small City
+1674,25,Unknown,103716,Unemployed,Male,Single,Small City
+1675,27,High School,94947,Official,Male,Married,Small City
+1676,42,High School,80116,Unemployed,Female,Single,Small City
+1677,35,High School,86492,Unemployed,Male,Single,Small City
+1678,25,High School,88672,Unemployed,Female,Married,Small City
+1679,26,High School,82984,Unemployed,Female,Married,Small City
+1680,38,High School,128100,Official,Male,Single,Small City
+1681,28,Unknown,72869,Unemployed,Female,Single,Small City
+1682,33,High School,112227,Official,Male,Married,Small City
+1683,40,High School,94674,Unemployed,Female,Single,Small City
+1684,23,High School,101003,Official,Female,Married,Small City
+1685,25,Unknown,112924,Official,Female,Single,Small City
+1686,28,Unknown,108645,Unemployed,Female,Single,Small City
+1687,41,High School,69415,Unemployed,Male,Single,Small City
+1688,50,High School,112204,Unemployed,Female,Single,Small City
+1689,23,High School,109700,Official,Female,Married,Small City
+1690,26,High School,104484,Official,Female,Married,Small City
+1691,22,High School,61239,Unemployed,Female,Married,Small City
+1692,37,High School,119602,Unemployed,Male,Single,Small City
+1693,38,High School,81014,Unemployed,Female,Single,Small City
+1694,22,High School,68165,Unemployed,Female,Married,Small City
+1695,30,Unknown,88652,Unemployed,Female,Single,Small City
+1696,38,High School,75705,Unemployed,Male,Single,Small City
+1697,36,High School,104189,Official,Female,Married,Small City
+1698,41,High School,71603,Unemployed,Male,Single,Small City
+1699,29,High School,121914,Official,Female,Married,Small City
+1700,31,High School,106637,Official,Female,Married,Small City
+1701,31,Unknown,99800,Official,Female,Single,Small City
+1702,21,Unknown,67629,Unemployed,Female,Single,Small City
+1703,32,Unknown,120354,Official,Male,Single,Small City
+1704,35,High School,122110,Official,Female,Married,Small City
+1705,29,Unknown,89170,Unemployed,Male,Single,Small City
+1706,34,High School,109195,Official,Female,Single,Small City
+1707,38,High School,92392,Unemployed,Female,Single,Small City
+1708,33,High School,43805,Unemployed,Female,Married,Small City
+1709,28,High School,68389,Unemployed,Female,Married,Small City
+1710,28,High School,112521,Official,Female,Married,Small City
+1711,21,Unknown,59255,Unemployed,Male,Single,Small City
+1712,29,High School,98612,Unemployed,Female,Married,Small City
+1713,26,High School,70649,Unemployed,Female,Married,Small City
+1714,40,High School,95228,Unemployed,Female,Single,Small City
+1715,25,Unknown,46865,Unemployed,Female,Single,Small City
+1716,20,High School,101688,Official,Male,Married,Small City
+1717,23,High School,62618,Unemployed,Female,Married,Small City
+1718,27,Unknown,102531,Official,Female,Single,Small City
+1719,36,High School,100737,Official,Female,Single,Small City
+1720,25,High School,107321,Official,Female,Married,Small City
+1721,25,High School,112879,Unemployed,Female,Married,Small City
+1722,34,High School,125372,Unemployed,Female,Married,Small City
+1723,24,Unknown,69419,Unemployed,Female,Single,Small City
+1724,36,High School,124759,Official,Female,Single,Small City
+1725,40,High School,79076,Unemployed,Female,Single,Small City
+1726,39,High School,84779,Unemployed,Male,Single,Small City
+1727,42,High School,77393,Unemployed,Female,Single,Small City
+1728,35,High School,113187,Unemployed,Male,Single,Small City
+1729,27,High School,99100,Official,Female,Married,Small City
+1730,27,Unknown,64954,Unemployed,Male,Single,Small City
+1731,23,High School,103244,Official,Female,Married,Small City
+1732,32,High School,124975,Official,Female,Married,Small City
+1733,28,High School,133582,Official,Male,Married,Small City
+1734,22,Unknown,103519,Official,Male,Single,Small City
+1735,31,Unknown,117813,Official,Male,Single,Small City
+1736,22,High School,119902,Official,Female,Married,Small City
+1737,23,Unknown,70783,Unemployed,Male,Single,Small City
+1738,35,High School,125470,Unemployed,Female,Married,Small City
+1739,26,High School,109782,Unemployed,Female,Married,Small City
+1740,28,High School,78322,Unemployed,Female,Married,Small City
+1741,54,High School,125517,Official,Male,Single,Small City
+1742,49,High School,102463,Unemployed,Female,Single,Small City
+1743,38,High School,89309,Unemployed,Female,Single,Small City
+1744,47,High School,110287,Official,Female,Single,Small City
+1745,49,High School,122391,Unemployed,Female,Single,Small City
+1746,30,High School,116399,Official,Female,Married,Small City
+1747,32,Unknown,81907,Unemployed,Female,Single,Small City
+1748,24,High School,97909,Unemployed,Female,Married,Small City
+1749,25,Unknown,68051,Unemployed,Female,Single,Small City
+1750,33,High School,82414,Unemployed,Male,Single,Small City
+1751,34,High School,123089,Official,Female,Married,Small City
+1752,24,High School,66537,Unemployed,Female,Married,Small City
+1753,36,High School,127926,Unemployed,Female,Single,Small City
+1754,41,High School,78963,Unemployed,Female,Single,Small City
+1755,33,High School,108694,Official,Male,Married,Small City
+1756,26,High School,100892,Official,Female,Married,Small City
+1757,36,High School,119560,Official,Female,Single,Small City
+1758,35,High School,116176,Unemployed,Female,Single,Small City
+1759,29,Unknown,111854,Official,Male,Single,Small City
+1760,26,High School,69831,Unemployed,Female,Married,Small City
+1761,31,Unknown,69375,Unemployed,Male,Single,Small City
+1762,26,High School,71310,Unemployed,Male,Married,Small City
+1763,47,High School,73913,Unemployed,Male,Single,Small City
+1764,20,High School,95492,Official,Male,Married,Small City
+1765,45,High School,109329,Unemployed,Male,Single,Small City
+1766,36,High School,116027,Official,Male,Single,Small City
+1767,31,High School,81987,Unemployed,Male,Married,Small City
+1768,41,High School,83481,Unemployed,Female,Single,Small City
+1769,31,Unknown,72361,Unemployed,Female,Single,Small City
+1770,27,High School,106625,Unemployed,Female,Married,Small City
+1771,32,High School,123707,Official,Female,Married,Small City
+1772,43,High School,79353,Unemployed,Female,Single,Small City
+1773,32,Unknown,68347,Unemployed,Female,Single,Small City
+1774,29,High School,115832,Official,Female,Married,Small City
+1775,37,High School,89946,Unemployed,Male,Single,Small City
+1776,35,High School,86319,Unemployed,Female,Single,Small City
+1777,23,High School,70963,Unemployed,Female,Married,Small City
+1778,40,High School,106120,Official,Male,Single,Small City
+1779,26,High School,97856,Official,Female,Married,Small City
+1780,28,Unknown,61824,Unemployed,Male,Single,Small City
+1781,40,High School,103907,Official,Female,Married,Small City
+1782,26,High School,99953,Unemployed,Female,Married,Small City
+1783,23,High School,113413,Official,Female,Married,Small City
+1784,26,Unknown,107091,Unemployed,Male,Single,Small City
+1785,26,Unknown,124783,Official,Male,Single,Small City
+1786,49,High School,92281,Unemployed,Female,Single,Small City
+1787,26,High School,96219,Official,Female,Married,Small City
+1788,35,High School,86221,Unemployed,Female,Single,Small City
+1789,24,High School,80962,Unemployed,Female,Married,Small City
+1790,46,High School,78754,Unemployed,Female,Single,Small City
+1791,26,Unknown,60026,Unemployed,Male,Single,Small City
+1792,47,High School,88157,Unemployed,Male,Single,Small City
+1793,27,Unknown,59881,Unemployed,Male,Single,Small City
+1794,41,High School,112818,Official,Male,Married,Small City
+1795,29,High School,102250,Official,Female,Married,Small City
+1796,28,High School,38980,Unemployed,Female,Married,Small City
+1797,33,High School,81807,Unemployed,Female,Married,Small City
+1798,50,High School,93148,Unemployed,Female,Single,Small City
+1799,32,High School,108032,Official,Female,Married,Small City
+1800,31,High School,89335,Unemployed,Male,Married,Small City
+1801,52,High School,95639,Unemployed,Male,Single,Small City
+1802,53,High School,124902,Official,Male,Single,Small City
+1803,34,High School,87801,Unemployed,Female,Married,Small City
+1804,22,High School,92538,Official,Female,Married,Small City
+1805,33,High School,83687,Unemployed,Male,Married,Small City
+1806,32,Unknown,128310,Official,Male,Single,Small City
+1807,45,High School,104754,Unemployed,Female,Single,Small City
+1808,25,High School,68222,Unemployed,Male,Married,Small City
+1809,41,High School,97006,Unemployed,Female,Married,Small City
+1810,36,High School,107372,Unemployed,Female,Single,Small City
+1811,27,High School,110511,Official,Female,Married,Small City
+1812,40,High School,72193,Unemployed,Male,Single,Small City
+1813,37,High School,95972,Unemployed,Female,Single,Small City
+1814,35,High School,105556,Unemployed,Male,Single,Small City
+1815,34,High School,88701,Unemployed,Male,Single,Small City
+1816,28,Unknown,117710,Official,Female,Single,Small City
+1817,44,High School,76057,Unemployed,Female,Single,Small City
+1818,27,High School,100392,Official,Male,Married,Small City
+1819,50,High School,113308,Official,Female,Single,Small City
+1820,18,High School,100924,Official,Female,Married,Small City
+1821,25,Unknown,72188,Unemployed,Female,Single,Small City
+1822,40,High School,70431,Unemployed,Female,Married,Small City
+1823,28,High School,110103,Official,Male,Married,Small City
+1824,23,High School,60825,Unemployed,Female,Married,Small City
+1825,35,High School,75100,Unemployed,Female,Married,Small City
+1826,28,High School,129327,Official,Female,Married,Small City
+1827,23,Unknown,95541,Official,Female,Single,Small City
+1828,34,High School,112777,Official,Male,Married,Small City
+1829,29,High School,51496,Unemployed,Female,Married,Small City
+1830,35,High School,102781,Official,Female,Single,Small City
+1831,32,High School,87494,Unemployed,Female,Married,Small City
+1832,46,High School,72728,Unemployed,Female,Single,Small City
+1833,27,High School,114775,Official,Female,Married,Small City
+1834,25,High School,124359,Official,Female,Married,Small City
+1835,27,High School,101620,Unemployed,Female,Married,Small City
+1836,24,High School,87964,Unemployed,Female,Married,Small City
+1837,33,Unknown,69523,Unemployed,Female,Single,Small City
+1838,24,High School,109486,Official,Female,Married,Small City
+1839,28,Unknown,77206,Unemployed,Female,Single,Small City
+1840,35,High School,53608,Unemployed,Female,Single,Small City
+1841,30,High School,118677,Official,Female,Married,Small City
+1842,43,High School,116512,Official,Male,Single,Small City
+1843,21,High School,114756,Unemployed,Male,Married,Small City
+1844,24,High School,65852,Unemployed,Female,Married,Small City
+1845,34,High School,75626,Unemployed,Male,Single,Small City
+1846,26,High School,127455,Official,Female,Married,Small City
+1847,37,High School,107073,Official,Male,Single,Small City
+1848,32,High School,82196,Unemployed,Female,Married,Small City
+1849,33,High School,106741,Unemployed,Female,Married,Small City
+1850,28,High School,94518,Official,Male,Married,Small City
+1851,30,High School,114430,Official,Female,Married,Small City
+1852,26,High School,57165,Unemployed,Female,Married,Small City
+1853,25,Unknown,109610,Unemployed,Female,Single,Small City
+1854,33,Unknown,113619,Official,Male,Single,Small City
+1855,30,High School,93854,Official,Female,Married,Small City
+1856,26,High School,129022,Official,Female,Married,Small City
+1857,23,High School,66804,Unemployed,Male,Married,Small City
+1858,25,High School,62689,Unemployed,Male,Married,Small City
+1859,40,High School,67619,Unemployed,Female,Single,Small City
+1860,46,High School,113495,Unemployed,Male,Single,Small City
+1861,43,High School,48632,Unemployed,Female,Married,Small City
+1862,22,High School,107394,Unemployed,Female,Married,Small City
+1863,39,High School,72385,Unemployed,Male,Married,Small City
+1864,27,High School,115934,Unemployed,Female,Married,Small City
+1865,40,High School,93183,Unemployed,Male,Single,Small City
+1866,24,Unknown,63506,Unemployed,Male,Single,Small City
+1867,52,High School,113619,Official,Female,Single,Small City
+1868,30,High School,121399,Unemployed,Female,Married,Small City
+1869,34,High School,78281,Unemployed,Female,Married,Small City
+1870,38,High School,103926,Official,Female,Single,Small City
+1871,39,High School,89097,Unemployed,Male,Married,Small City
+1872,29,Unknown,80852,Unemployed,Female,Single,Small City
+1873,25,High School,65207,Unemployed,Male,Married,Small City
+1874,35,High School,93495,Unemployed,Female,Married,Small City
+1875,53,High School,121970,Unemployed,Male,Single,Small City
+1876,26,Unknown,62027,Unemployed,Male,Single,Small City
+1877,33,High School,88602,Unemployed,Male,Single,Small City
+1878,29,High School,89914,Unemployed,Male,Married,Small City
+1879,39,High School,83342,Unemployed,Male,Single,Small City
+1880,29,Unknown,103439,Official,Male,Single,Small City
+1881,26,Unknown,115451,Official,Male,Single,Small City
+1882,24,Unknown,68250,Unemployed,Male,Single,Small City
+1883,21,High School,113630,Unemployed,Female,Married,Small City
+1884,26,High School,125880,Official,Female,Married,Small City
+1885,20,High School,91177,Unemployed,Female,Married,Small City
+1886,35,High School,73266,Unemployed,Female,Single,Small City
+1887,24,High School,69021,Unemployed,Female,Married,Small City
+1888,40,High School,122593,Official,Female,Single,Small City
+1889,44,High School,122180,Official,Female,Single,Small City
+1890,29,Unknown,75160,Unemployed,Male,Single,Small City
+1891,39,High School,81973,Unemployed,Female,Married,Small City
+1892,35,High School,92194,Unemployed,Female,Married,Small City
+1893,42,High School,107380,Unemployed,Male,Single,Small City
+1894,32,High School,98023,Official,Female,Single,Small City
+1895,48,High School,94868,Unemployed,Male,Single,Small City
+1896,26,Unknown,83442,Unemployed,Male,Single,Small City
+1897,26,High School,109887,Official,Female,Married,Small City
+1898,42,High School,98876,Unemployed,Male,Single,Small City
+1899,48,High School,94962,Unemployed,Male,Single,Small City
+1900,42,High School,130740,Official,Female,Married,Small City
+1901,27,High School,94095,Unemployed,Female,Married,Small City
+1902,37,High School,95071,Unemployed,Female,Married,Small City
+1903,33,Unknown,117308,Official,Male,Single,Small City
+1904,33,High School,112093,Official,Male,Single,Small City
+1905,37,High School,123893,Official,Female,Single,Small City
+1906,31,High School,80189,Unemployed,Female,Married,Small City
+1907,39,High School,124089,Official,Male,Single,Small City
+1908,40,High School,82673,Unemployed,Female,Single,Small City
+1909,28,High School,88858,Unemployed,Female,Married,Small City
+1910,26,High School,80540,Unemployed,Female,Married,Small City
+1911,24,High School,84228,Unemployed,Female,Married,Small City
+1912,40,High School,103963,Official,Male,Single,Small City
+1913,29,High School,102397,Official,Female,Married,Small City
+1914,43,High School,111563,Official,Male,Single,Small City
+1915,23,Unknown,88260,Unemployed,Male,Single,Small City
+1916,34,High School,114767,Official,Female,Single,Small City
+1917,42,High School,113275,Official,Female,Married,Small City
+1918,33,High School,104755,Official,Female,Married,Small City
+1919,32,High School,120525,Official,Female,Married,Small City
+1920,26,High School,96082,Unemployed,Female,Married,Small City
+1921,23,High School,87227,Unemployed,Female,Married,Small City
+1922,26,High School,69333,Unemployed,Female,Married,Small City
+1923,27,High School,87777,Unemployed,Female,Married,Small City
+1924,24,Unknown,70978,Unemployed,Male,Single,Small City
+1925,27,Unknown,104196,Unemployed,Male,Single,Small City
+1926,26,High School,97551,Official,Female,Married,Small City
+1927,42,High School,78979,Unemployed,Female,Single,Small City
+1928,37,High School,82500,Unemployed,Female,Single,Small City
+1929,26,High School,86306,Unemployed,Female,Married,Small City
+1930,24,High School,78762,Unemployed,Female,Married,Small City
+1931,39,High School,125543,Official,Female,Single,Small City
+1932,26,Unknown,70336,Unemployed,Male,Single,Small City
+1933,35,High School,112975,Official,Male,Married,Small City
+1934,38,High School,96681,Unemployed,Male,Single,Small City
+1935,24,High School,98922,Official,Female,Married,Small City
+1936,26,Unknown,109250,Official,Female,Single,Small City
+1937,25,Unknown,108960,Unemployed,Male,Single,Small City
+1938,40,High School,71302,Unemployed,Male,Single,Small City
+1939,48,High School,107757,Unemployed,Female,Single,Small City
+1940,22,High School,111600,Official,Female,Married,Small City
+1941,25,High School,102974,Official,Female,Married,Small City
+1942,24,High School,63442,Unemployed,Male,Married,Small City
+1943,39,High School,118913,Unemployed,Male,Single,Small City
+1944,39,High School,80987,Unemployed,Male,Single,Small City
+1945,21,High School,68790,Unemployed,Female,Married,Small City
+1946,27,Unknown,86462,Unemployed,Female,Single,Small City
+1947,40,High School,76881,Unemployed,Male,Single,Small City
+1948,37,High School,107409,Official,Female,Married,Small City
+1949,42,High School,69114,Unemployed,Female,Single,Small City
+1950,31,High School,119167,Official,Female,Married,Small City
+1951,31,High School,102018,Official,Female,Married,Small City
+1952,30,Unknown,97680,Official,Male,Single,Small City
+1953,23,Unknown,65062,Unemployed,Female,Single,Small City
+1954,33,Unknown,118144,Official,Male,Single,Small City
+1955,37,High School,124548,Official,Female,Married,Small City
+1956,29,Unknown,85637,Unemployed,Female,Single,Small City
+1957,31,High School,113108,Official,Female,Single,Small City
+1958,39,High School,93554,Unemployed,Male,Single,Small City
+1959,33,High School,42516,Unemployed,Female,Married,Small City
+1960,26,High School,72429,Unemployed,Male,Married,Small City
+1961,27,High School,110154,Official,Female,Married,Small City
+1962,20,Unknown,60965,Unemployed,Female,Single,Small City
+1963,27,High School,100618,Unemployed,Female,Married,Small City
+1964,26,High School,71021,Unemployed,Female,Married,Small City
+1965,40,High School,94189,Unemployed,Male,Single,Small City
+1966,24,Unknown,44742,Unemployed,Male,Single,Small City
+1967,22,High School,103201,Official,Female,Married,Small City
+1968,24,High School,62335,Unemployed,Female,Married,Small City
+1969,27,Unknown,103787,Official,Female,Single,Small City
+1970,35,High School,99401,Official,Male,Single,Small City
+1971,27,High School,105197,Official,Male,Married,Small City
+1972,25,High School,115566,Unemployed,Female,Married,Small City
+1973,34,High School,125843,Unemployed,Female,Married,Small City
+1974,24,Unknown,67936,Unemployed,Female,Single,Small City
+1975,34,High School,120863,Official,Female,Single,Small City
+1976,42,High School,77317,Unemployed,Male,Single,Small City
+1977,38,High School,84653,Unemployed,Female,Single,Small City
+1978,42,High School,81606,Unemployed,Male,Single,Small City
+1979,35,High School,113380,Unemployed,Female,Single,Small City
+1980,27,High School,100644,Official,Female,Married,Small City
+1981,25,Unknown,64037,Unemployed,Male,Single,Small City
+1982,23,High School,101350,Official,Female,Married,Small City
+1983,34,High School,126334,Official,Female,Married,Small City
+1984,28,High School,130877,Official,Female,Married,Small City
+1985,21,Unknown,103470,Official,Male,Single,Small City
+1986,32,Unknown,114588,Official,Female,Single,Small City
+1987,21,High School,120682,Official,Female,Married,Small City
+1988,25,Unknown,66628,Unemployed,Male,Single,Small City
+1989,35,High School,124447,Unemployed,Female,Married,Small City
+1990,25,High School,106567,Unemployed,Female,Married,Small City
+1991,31,High School,78758,Unemployed,Female,Married,Small City
+1992,54,High School,128537,Official,Male,Single,Small City
+1993,51,High School,101074,Unemployed,Female,Single,Small City
+1994,38,High School,87670,Unemployed,Female,Single,Small City
+1995,45,High School,113414,Official,Male,Single,Small City
+1996,47,High School,123525,Unemployed,Female,Single,Small City
+1997,27,High School,117744,Official,Female,Married,Small City
+1998,31,Unknown,86400,Unemployed,Male,Single,Small City
+1999,24,High School,97968,Unemployed,Female,Married,Small City
+2000,25,Unknown,68416,Unemployed,Male,Single,Small City
